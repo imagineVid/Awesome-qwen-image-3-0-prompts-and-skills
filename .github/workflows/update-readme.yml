@@ -1,0 +1,22 @@
+# [INPUT]: 依赖仓库内 Node 24 生成器、验证器与结构化 Qwen Image 3.0 数据。
+# [OUTPUT]: 对 push、pull_request 与 workflow_dispatch 提供确定性合集验证。
+# [POS]: GitHub Actions 的发布门禁，阻止失配 README、重复数据与模板残留进入 main。
+# [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
+
+name: Verify collection
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+      - run: npm run verify

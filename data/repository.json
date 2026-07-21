@@ -1,0 +1,26 @@
+{
+  "dir": "awesome-qwen-image-3-0-prompts-and-skills",
+  "repo": "Awesome-qwen-image-3-0-prompts-and-skills",
+  "model": "Qwen Image 3.0",
+  "kind": "image",
+  "product": "https://imaginevid.io/ai-image-generator",
+  "cover": "qwen-image-3-0-cover.png",
+  "intro": "Qwen Image 3.0 is the third-generation image generation and editing model from the Qwen team. Its launch materials organize the release around three production goals: rich content, authentic details, and deep knowledge. The model accepts instructions up to 4.5K tokens, targets legible text down to 10 pixels, renders 12 languages natively, and handles dense publications, nested interfaces, photorealistic texture, and reference-based editing. This collection rebuilds the official showcase concepts as complete English production prompts while keeping Qwen's claims separate from independent evaluation.",
+  "capabilities": [
+    "Long, structured instructions for dense multi-panel layouts and publications",
+    "Fine typography, formulas, annotations, and information-rich educational graphics",
+    "Photorealistic skin, hair, paper, fabric, and material texture",
+    "Reference editing, restoration, multilingual design, and interface simulation"
+  ],
+  "officialSources": [
+    "https://qwen.ai/blog?id=qwen-image-3.0",
+    "https://chat.qwen.ai/?inputFeature=t2i"
+  ],
+  "categories": [
+    "Long-Form Information Design",
+    "Typography & Publication",
+    "Interfaces & World Knowledge",
+    "Photorealism & Material Detail",
+    "Reference Editing & Restoration"
+  ]
+}

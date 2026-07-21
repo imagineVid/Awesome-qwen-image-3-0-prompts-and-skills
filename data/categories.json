@@ -1,0 +1,37 @@
+[
+  {
+    "id": 101,
+    "title": "Long-Form Information Design",
+    "slug": "long-form-information-design",
+    "parentSlug": "image-workflow-groups",
+    "sort": 1
+  },
+  {
+    "id": 102,
+    "title": "Typography & Publication",
+    "slug": "typography-and-publication",
+    "parentSlug": "image-workflow-groups",
+    "sort": 2
+  },
+  {
+    "id": 103,
+    "title": "Interfaces & World Knowledge",
+    "slug": "interfaces-and-world-knowledge",
+    "parentSlug": "image-workflow-groups",
+    "sort": 3
+  },
+  {
+    "id": 104,
+    "title": "Photorealism & Material Detail",
+    "slug": "photorealism-and-material-detail",
+    "parentSlug": "image-workflow-groups",
+    "sort": 4
+  },
+  {
+    "id": 105,
+    "title": "Reference Editing & Restoration",
+    "slug": "reference-editing-and-restoration",
+    "parentSlug": "image-workflow-groups",
+    "sort": 5
+  }
+]
