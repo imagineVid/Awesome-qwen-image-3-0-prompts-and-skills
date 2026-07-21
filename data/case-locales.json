@@ -11,7 +11,8 @@
     "9": {"title": "三语言文化海报系列", "description": "在保持统一活动识别的同时，检验日语、韩语与西班牙语原生排版的系列设计。"},
     "10": {"title": "直播电商导播控制台", "description": "在同一系统中合理组织视频、商品、审核、库存和绩效数据的真实生产界面。"},
     "11": {"title": "将昆虫照片转为研究图版", "description": "保留原标本并补充分类结构、解剖标注、放大细节和比例信息的科学编辑。"},
-    "12": {"title": "跨时代艺术史直播间", "description": "把历史视觉知识、现代界面和明确的虚构说明结合起来的教育广播场景。"}
+    "12": {"title": "跨时代艺术史直播间", "description": "把历史视觉知识、现代界面和明确的虚构说明结合起来的教育广播场景。"},
+    "13": {"title": "带精准日文对白的双格黑白漫画", "description": "基于社区实测的制作级重构，用于检验分格连续性、克制的漫画笔触、竖排日文与对白准确度。"}
   },
   "ja": {
     "1": {"title": "一度に生成する9分野の知識アトラス", "description": "長文指示、意味の分離、数式、図解、日英ラベルの可読性を一枚で試す3×3教材。"},
@@ -25,7 +26,8 @@
     "9": {"title": "3言語の文化ポスターシリーズ", "description": "共通のイベントらしさを保ちながら、日本語・韓国語・スペイン語の自然な組版を試します。"},
     "10": {"title": "ライブコマース運用画面", "description": "映像、商品、モデレーション、在庫、指標を実務的な優先順位でまとめた制作UI。"},
     "11": {"title": "昆虫写真を研究図版へ", "description": "標本を保ったまま分類、解剖ラベル、拡大図、縮尺情報を加える科学編集。"},
-    "12": {"title": "時代を越える美術史ライブ配信", "description": "歴史知識、現代UI、明確なフィクション表示を組み合わせた教育放送の場面。"}
+    "12": {"title": "時代を越える美術史ライブ配信", "description": "歴史知識、現代UI、明確なフィクション表示を組み合わせた教育放送の場面。"},
+    "13": {"title": "正確な日本語台詞入り二段モノクロ漫画", "description": "コマ間の連続性、抑制した漫画表現、縦書き日本語、台詞の正確さを検証するコミュニティ実例ベースの制作再構成。"}
   },
   "ko": {
     "1": {"title": "한 번에 생성하는 9개 지식 분야 지도", "description": "한 화면에서 긴 지시 이해, 의미 분리, 수식, 도표, 한영 소문자 가독성을 시험하는 3×3 교육 자료입니다."},
@@ -39,7 +41,8 @@
     "9": {"title": "3개 언어 문화 포스터 시리즈", "description": "공통 행사 정체성을 유지하면서 일본어, 한국어, 스페인어의 자연스러운 조판을 시험합니다."},
     "10": {"title": "라이브 커머스 제작 제어실", "description": "영상, 상품, 검수, 재고, 성과 데이터를 실제 운영 위계에 맞춘 제작 인터페이스입니다."},
     "11": {"title": "곤충 사진을 연구 도판으로", "description": "표본을 그대로 보존하며 분류 구조, 해부 표기, 확대 보기와 축척을 추가하는 과학 편집입니다."},
-    "12": {"title": "시대를 넘나드는 미술사 라이브", "description": "역사적 시각 지식, 현대 UI, 명확한 허구 표시를 결합한 교육 방송 장면입니다."}
+    "12": {"title": "시대를 넘나드는 미술사 라이브", "description": "역사적 시각 지식, 현대 UI, 명확한 허구 표시를 결합한 교육 방송 장면입니다."},
+    "13": {"title": "정확한 일본어 대사가 있는 2단 흑백 만화", "description": "패널 연속성, 절제된 만화 표현, 세로쓰기 일본어와 정확한 말풍선 문구를 시험하는 커뮤니티 기반 제작 재구성입니다."}
   },
   "es": {
     "1": {"title": "Atlas de nueve áreas de conocimiento en una sola generación", "description": "Una cuadrícula educativa 3×3 que prueba instrucciones largas, separación semántica, fórmulas, diagramas y texto bilingüe legible."},
@@ -53,7 +56,8 @@
     "9": {"title": "Serie de carteles culturales en tres idiomas", "description": "Un sistema común que pone a prueba la tipografía nativa japonesa, coreana y española."},
     "10": {"title": "Sala de control para comercio en directo", "description": "Una interfaz de producción que organiza vídeo, productos, moderación, inventario y rendimiento con lógica operativa."},
     "11": {"title": "De fotografía de insecto a lámina científica", "description": "Edición que conserva el espécimen y añade taxonomía, anatomía, ampliaciones y escala sin inventar datos."},
-    "12": {"title": "Emisión de historia del arte entre épocas", "description": "Escena educativa que combina conocimiento histórico, interfaz contemporánea y una indicación clara de ficción."}
+    "12": {"title": "Emisión de historia del arte entre épocas", "description": "Escena educativa que combina conocimiento histórico, interfaz contemporánea y una indicación clara de ficción."},
+    "13": {"title": "Manga monocromo de dos viñetas con diálogo japonés exacto", "description": "Reconstrucción de producción basada en un caso comunitario para probar continuidad, dibujo contenido, texto vertical y bocadillos precisos."}
   },
   "de": {
     "1": {"title": "Wissensatlas aus neun Fachgebieten in einem Durchgang", "description": "Ein 3×3-Lehrblatt für lange Anweisungen, semantische Trennung, Formeln, Diagramme und lesbare zweisprachige Beschriftungen."},
@@ -67,7 +71,8 @@
     "9": {"title": "Kulturplakate in drei Sprachen", "description": "Eine zusammengehörige Serie zur nativen japanischen, koreanischen und spanischen Typografie."},
     "10": {"title": "Regieraum für Live-Commerce", "description": "Eine Produktionsoberfläche für Video, Produkte, Moderation, Bestand und Leistungsdaten nach realer Bedienlogik."},
     "11": {"title": "Vom Insektenfoto zur Forschungstafel", "description": "Wissenschaftliche Bearbeitung mit erhaltenem Exemplar, Taxonomie, Anatomie, Vergrößerungen und Maßstab."},
-    "12": {"title": "Kunstgeschichte-Livestream über Epochen hinweg", "description": "Eine Lernsituation aus historischem Bildwissen, moderner Oberfläche und klarer Kennzeichnung als Fiktion."}
+    "12": {"title": "Kunstgeschichte-Livestream über Epochen hinweg", "description": "Eine Lernsituation aus historischem Bildwissen, moderner Oberfläche und klarer Kennzeichnung als Fiktion."},
+    "13": {"title": "Zweiteiliger Schwarz-Weiß-Manga mit exaktem japanischem Dialog", "description": "Community-gestützte Produktionsrekonstruktion für Panelkontinuität, zurückhaltende Manga-Linien, vertikalen Satz und präzise Sprechblasen."}
   },
   "fr": {
     "1": {"title": "Atlas de neuf domaines en une seule génération", "description": "Une planche éducative 3×3 qui teste les longues consignes, la séparation sémantique, les formules, les schémas et les légendes bilingues."},
@@ -81,7 +86,8 @@
     "9": {"title": "Série d'affiches culturelles en trois langues", "description": "Une identité commune qui met à l'épreuve la typographie native japonaise, coréenne et espagnole."},
     "10": {"title": "Régie de commerce en direct", "description": "Une interface de production réunissant vidéo, produits, modération, stock et performances selon une logique opérationnelle."},
     "11": {"title": "D'une photo d'insecte à une planche de recherche", "description": "Une édition scientifique qui conserve le spécimen et ajoute taxonomie, anatomie, détails agrandis et échelle."},
-    "12": {"title": "Émission d'histoire de l'art entre les époques", "description": "Une scène pédagogique mêlant savoir historique, interface moderne et signalement explicite de la fiction."}
+    "12": {"title": "Émission d'histoire de l'art entre les époques", "description": "Une scène pédagogique mêlant savoir historique, interface moderne et signalement explicite de la fiction."},
+    "13": {"title": "Manga monochrome en deux cases avec dialogue japonais exact", "description": "Reconstruction de production issue d'un cas communautaire pour tester continuité, trait sobre, texte vertical et bulles précises."}
   },
   "it": {
     "1": {"title": "Atlante di nove discipline in una sola generazione", "description": "Una tavola educativa 3×3 per istruzioni lunghe, separazione semantica, formule, diagrammi e testo bilingue leggibile."},
@@ -95,7 +101,8 @@
     "9": {"title": "Serie di manifesti culturali in tre lingue", "description": "Un'identità condivisa che verifica la tipografia nativa giapponese, coreana e spagnola."},
     "10": {"title": "Regia per il live commerce", "description": "Interfaccia produttiva che organizza video, prodotti, moderazione, inventario e risultati secondo priorità reali."},
     "11": {"title": "Dalla foto di un insetto alla tavola scientifica", "description": "Modifica che conserva l'esemplare e aggiunge tassonomia, anatomia, ingrandimenti e scala."},
-    "12": {"title": "Diretta di storia dell'arte fra epoche", "description": "Scena educativa che combina conoscenza storica, interfaccia moderna e chiara indicazione di finzione."}
+    "12": {"title": "Diretta di storia dell'arte fra epoche", "description": "Scena educativa che combina conoscenza storica, interfaccia moderna e chiara indicazione di finzione."},
+    "13": {"title": "Manga monocromatico a due vignette con dialoghi giapponesi esatti", "description": "Ricostruzione produttiva da un caso della community per verificare continuità, segno sobrio, testo verticale e balloon precisi."}
   },
   "pt": {
     "1": {"title": "Atlas de nove áreas do conhecimento em uma geração", "description": "Uma prancha educacional 3×3 que testa instruções longas, separação semântica, fórmulas, diagramas e texto bilíngue."},
@@ -109,7 +116,8 @@
     "9": {"title": "Série de cartazes culturais em três idiomas", "description": "Uma identidade comum que testa tipografia nativa em japonês, coreano e espanhol."},
     "10": {"title": "Sala de controle de comércio ao vivo", "description": "Interface de produção que organiza vídeo, produtos, moderação, estoque e desempenho segundo a operação real."},
     "11": {"title": "De foto de inseto a prancha científica", "description": "Edição que preserva o espécime e acrescenta taxonomia, anatomia, ampliações e escala."},
-    "12": {"title": "Transmissão de história da arte entre épocas", "description": "Cena educativa que combina conhecimento histórico, interface moderna e indicação explícita de ficção."}
+    "12": {"title": "Transmissão de história da arte entre épocas", "description": "Cena educativa que combina conhecimento histórico, interface moderna e indicação explícita de ficção."},
+    "13": {"title": "Mangá monocromático em dois painéis com diálogo japonês exato", "description": "Reconstrução de produção baseada num caso da comunidade para testar continuidade, traço contido, texto vertical e balões precisos."}
   },
   "nl": {
     "1": {"title": "Kennisatlas van negen domeinen in één generatie", "description": "Een educatief 3×3-overzicht voor lange instructies, semantische scheiding, formules, diagrammen en leesbare tweetalige tekst."},
@@ -123,7 +131,8 @@
     "9": {"title": "Culturele posterserie in drie talen", "description": "Eén identiteit die natuurlijke Japanse, Koreaanse en Spaanse typografie beproeft."},
     "10": {"title": "Regiekamer voor live commerce", "description": "Een productie-interface voor video, producten, moderatie, voorraad en prestaties volgens echte werkprioriteiten."},
     "11": {"title": "Van insectenfoto naar onderzoeksplaat", "description": "Wetenschappelijke bewerking met behoud van het specimen en toevoeging van taxonomie, anatomie, details en schaal."},
-    "12": {"title": "Kunstgeschiedenisstream door de eeuwen heen", "description": "Een educatieve scène met historische kennis, moderne interface en duidelijke fictievermelding."}
+    "12": {"title": "Kunstgeschiedenisstream door de eeuwen heen", "description": "Een educatieve scène met historische kennis, moderne interface en duidelijke fictievermelding."},
+    "13": {"title": "Tweedelige zwart-witmanga met exacte Japanse dialoog", "description": "Een op communitybewijs gebaseerde productiereconstructie voor paneelcontinuïteit, sobere lijnvoering, verticale tekst en precieze tekstballonnen."}
   },
   "pl": {
     "1": {"title": "Atlas dziewięciu dziedzin wiedzy w jednym obrazie", "description": "Plansza 3×3 sprawdzająca długie instrukcje, separację znaczeń, wzory, diagramy i czytelny tekst dwujęzyczny."},
@@ -137,7 +146,8 @@
     "9": {"title": "Seria plakatów kulturalnych w trzech językach", "description": "Wspólna identyfikacja testująca naturalną typografię japońską, koreańską i hiszpańską."},
     "10": {"title": "Reżyserka sprzedaży na żywo", "description": "Interfejs produkcyjny porządkujący wideo, produkty, moderację, zapasy i wyniki zgodnie z rzeczywistą pracą."},
     "11": {"title": "Od zdjęcia owada do planszy badawczej", "description": "Edycja naukowa zachowująca okaz i dodająca taksonomię, anatomię, powiększenia oraz skalę."},
-    "12": {"title": "Transmisja historii sztuki między epokami", "description": "Scena edukacyjna łącząca wiedzę historyczną, nowoczesny interfejs i jasne oznaczenie fikcji."}
+    "12": {"title": "Transmisja historii sztuki między epokami", "description": "Scena edukacyjna łącząca wiedzę historyczną, nowoczesny interfejs i jasne oznaczenie fikcji."},
+    "13": {"title": "Dwupanelowa czarno-biała manga z dokładnym dialogiem japońskim", "description": "Rekonstrukcja produkcyjna oparta na przykładzie społeczności, testująca ciągłość kadrów, oszczędną kreskę, pionowy tekst i precyzyjne dymki."}
   },
   "ru": {
     "1": {"title": "Атлас девяти областей знания за одну генерацию", "description": "Учебная сетка 3×3 для проверки длинных инструкций, разделения смыслов, формул, схем и читаемого двуязычного текста."},
@@ -151,7 +161,8 @@
     "9": {"title": "Серия культурных плакатов на трёх языках", "description": "Единая система, проверяющая естественную японскую, корейскую и испанскую типографику."},
     "10": {"title": "Режиссёрская панель прямых продаж", "description": "Производственный интерфейс для видео, товаров, модерации, запасов и показателей по реальной логике работы."},
     "11": {"title": "Из фотографии насекомого в научную таблицу", "description": "Научное редактирование с сохранением образца и добавлением таксономии, анатомии, увеличений и масштаба."},
-    "12": {"title": "Межэпоховый эфир по истории искусства", "description": "Учебная сцена, объединяющая исторические знания, современный интерфейс и явную маркировку вымысла."}
+    "12": {"title": "Межэпоховый эфир по истории искусства", "description": "Учебная сцена, объединяющая исторические знания, современный интерфейс и явную маркировку вымысла."},
+    "13": {"title": "Двухпанельная чёрно-белая манга с точным японским диалогом", "description": "Производственная реконструкция по примеру сообщества для проверки связности кадров, сдержанной графики, вертикального текста и точных реплик."}
   },
   "tr": {
     "1": {"title": "Tek üretimde dokuz alanlık bilgi atlası", "description": "Uzun talimatları, anlam ayrımını, formülleri, diyagramları ve okunaklı iki dilli metni sınayan 3×3 eğitim atlası."},
@@ -165,7 +176,8 @@
     "9": {"title": "Üç dilli kültür afişi serisi", "description": "Ortak kimlik içinde Japonca, Korece ve İspanyolca doğal tipografiyi sınar."},
     "10": {"title": "Canlı ticaret prodüksiyon masası", "description": "Video, ürün, moderasyon, stok ve performansı gerçek iş öncelikleriyle düzenleyen arayüz."},
     "11": {"title": "Böcek fotoğrafından araştırma levhasına", "description": "Örneği koruyup taksonomi, anatomi, büyütülmüş ayrıntılar ve ölçek ekleyen bilimsel düzenleme."},
-    "12": {"title": "Dönemler arası sanat tarihi yayını", "description": "Tarihsel bilgiyi, modern arayüzü ve açık kurgu etiketini birleştiren eğitim sahnesi."}
+    "12": {"title": "Dönemler arası sanat tarihi yayını", "description": "Tarihsel bilgiyi, modern arayüzü ve açık kurgu etiketini birleştiren eğitim sahnesi."},
+    "13": {"title": "Kesin Japonca diyaloglu iki panelli siyah-beyaz manga", "description": "Panel sürekliliği, ölçülü çizgi, dikey Japonca ve doğru konuşma balonlarını sınayan topluluk kanıtlı prodüksiyon yeniden kurgusu."}
   },
   "ar": {
     "1": {"title": "أطلس لتسعة مجالات معرفية في توليد واحد", "description": "لوحة تعليمية 3×3 تختبر التعليمات الطويلة وفصل المعاني والمعادلات والرسوم والنص الثنائي المقروء."},
@@ -179,6 +191,7 @@
     "9": {"title": "سلسلة ملصقات ثقافية بثلاث لغات", "description": "هوية موحدة تختبر الطباعة الطبيعية باليابانية والكورية والإسبانية."},
     "10": {"title": "غرفة تحكم للتجارة المباشرة", "description": "واجهة إنتاج تنظم الفيديو والمنتجات والإشراف والمخزون والأداء وفق أولويات تشغيل حقيقية."},
     "11": {"title": "من صورة حشرة إلى لوحة بحثية", "description": "تحرير علمي يحافظ على العينة ويضيف التصنيف والتشريح والتكبير والمقياس."},
-    "12": {"title": "بث لتاريخ الفن عبر العصور", "description": "مشهد تعليمي يجمع المعرفة التاريخية والواجهة الحديثة والتنبيه الواضح إلى الطابع الخيالي."}
+    "12": {"title": "بث لتاريخ الفن عبر العصور", "description": "مشهد تعليمي يجمع المعرفة التاريخية والواجهة الحديثة والتنبيه الواضح إلى الطابع الخيالي."},
+    "13": {"title": "مانغا أحادية اللون من لوحتين بحوار ياباني دقيق", "description": "إعادة بناء إنتاجية موثقة من المجتمع لاختبار استمرارية اللوحات والخط الهادئ والنص العمودي ودقة فقاعات الحوار."}
   }
 }

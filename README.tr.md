@@ -54,7 +54,7 @@ Qwen Image 3.0, Qwen ekibinin üçüncü nesil görsel üretim ve düzenleme mod
 
 ## Doğrulanmış resmi örnekler
 
-| Koleksiyon durumu | 12 doğrulanmış örnek |
+| Koleksiyon durumu | 13 doğrulanmış örnek |
 |---|---:|
 | Son oluşturma | 2026-07-21 |
 
@@ -414,6 +414,39 @@ Use museum-quality editorial illustration rather than photoreal impersonation. P
 - **Resmi gösterim:** [Qwen Image 3.0](https://qwen.ai/blog?id=qwen-image-3.0)
 - **Yayın tarihi:** 2026-07-21
 - **Kategori:** Arayüzler ve dünya bilgisi
+- **Referans görsel gerekli:** Hayır
+
+**[Bu promptu ImagineVid'de kullan](https://imaginevid.io/tr/ai-image-generator)**
+
+---
+
+### 13. Kesin Japonca diyaloglu iki panelli siyah-beyaz manga
+
+Panel sürekliliği, ölçülü çizgi, dikey Japonca ve doğru konuşma balonlarını sınayan topluluk kanıtlı prodüksiyon yeniden kurgusu.
+
+#### Prompt
+
+```text
+Create a finished black-and-white manga page titled "目次だけの夜" using two wide horizontal panels stacked vertically. The characters are fictional adult online creators and must not resemble real people or copyrighted characters.
+
+Top panel: over-the-shoulder view of a dark-haired creator wearing cat-ear headphones and a track jacket, seated in a dim bedroom and facing a monitor. On the monitor, a pale-haired creator appears in a sparse video-call frame. Add exactly two vertical speech bubbles: the person on the monitor says "……ごめん" and the seated person says "昨日の配信の話しよ".
+
+Bottom panel: closer three-quarter view of the pale-haired creator wearing large headphones and a light hoodie, softly holding a thin translucent booklet. Only a table of contents is visible; the other pages contain no readable body text. Faint particles of light dissolve from the pages. The dark-haired creator appears only as a tiny chibi silhouette at the lower-left edge with dot eyes. Add exactly three vertical speech bubbles: "あらすじしか残ってないんだ", "日記の目次だけ持ってるみたいな", and the chibi reply "……ワロタ".
+
+Use clean seinen-manga linework, natural gray screentone, controlled white space, consistent clothing and headphone design across both panels, clear right-to-left reading order, and crisp natural Japanese lettering. Keep every quoted string exact. No color, no extra bubbles, no garbled glyphs, no logos, no watermarks, and no additional characters. 3:2 landscape page.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNv679EbwAAW6Ou.jpg" width="100%" alt="Kesin Japonca diyaloglu iki panelli siyah-beyaz manga"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNv68WbaEAAKITj.jpg" width="100%" alt="Kesin Japonca diyaloglu iki panelli siyah-beyaz manga"></td>
+</tr></table>
+
+#### Kaynak kanıtı
+
+- **Üretici:** [Yasun](https://x.com/yasun_ai)
+- **Resmi gösterim:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
+- **Yayın tarihi:** 2026-07-21
+- **Kategori:** Tipografi ve yayıncılık
 - **Referans görsel gerekli:** Hayır
 
 **[Bu promptu ImagineVid'de kullan](https://imaginevid.io/tr/ai-image-generator)**

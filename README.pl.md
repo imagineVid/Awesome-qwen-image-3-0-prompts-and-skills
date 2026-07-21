@@ -54,7 +54,7 @@ Qwen Image 3.0 to trzecia generacja modelu tworzenia i edycji obrazów zespołu 
 
 ## Zweryfikowane oficjalne przykłady
 
-| Stan kolekcji | 12 zweryfikowanych przykładów |
+| Stan kolekcji | 13 zweryfikowanych przykładów |
 |---|---:|
 | Ostatnio wygenerowano | 2026-07-21 |
 
@@ -414,6 +414,39 @@ Use museum-quality editorial illustration rather than photoreal impersonation. P
 - **Oficjalny przykład:** [Qwen Image 3.0](https://qwen.ai/blog?id=qwen-image-3.0)
 - **Opublikowano:** 2026-07-21
 - **Kategoria:** Interfejsy i wiedza o świecie
+- **Wymaga obrazów referencyjnych:** Nie
+
+**[Użyj tego promptu w ImagineVid](https://imaginevid.io/pl/ai-image-generator)**
+
+---
+
+### 13. Dwupanelowa czarno-biała manga z dokładnym dialogiem japońskim
+
+Rekonstrukcja produkcyjna oparta na przykładzie społeczności, testująca ciągłość kadrów, oszczędną kreskę, pionowy tekst i precyzyjne dymki.
+
+#### Prompt
+
+```text
+Create a finished black-and-white manga page titled "目次だけの夜" using two wide horizontal panels stacked vertically. The characters are fictional adult online creators and must not resemble real people or copyrighted characters.
+
+Top panel: over-the-shoulder view of a dark-haired creator wearing cat-ear headphones and a track jacket, seated in a dim bedroom and facing a monitor. On the monitor, a pale-haired creator appears in a sparse video-call frame. Add exactly two vertical speech bubbles: the person on the monitor says "……ごめん" and the seated person says "昨日の配信の話しよ".
+
+Bottom panel: closer three-quarter view of the pale-haired creator wearing large headphones and a light hoodie, softly holding a thin translucent booklet. Only a table of contents is visible; the other pages contain no readable body text. Faint particles of light dissolve from the pages. The dark-haired creator appears only as a tiny chibi silhouette at the lower-left edge with dot eyes. Add exactly three vertical speech bubbles: "あらすじしか残ってないんだ", "日記の目次だけ持ってるみたいな", and the chibi reply "……ワロタ".
+
+Use clean seinen-manga linework, natural gray screentone, controlled white space, consistent clothing and headphone design across both panels, clear right-to-left reading order, and crisp natural Japanese lettering. Keep every quoted string exact. No color, no extra bubbles, no garbled glyphs, no logos, no watermarks, and no additional characters. 3:2 landscape page.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNv679EbwAAW6Ou.jpg" width="100%" alt="Dwupanelowa czarno-biała manga z dokładnym dialogiem japońskim"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNv68WbaEAAKITj.jpg" width="100%" alt="Dwupanelowa czarno-biała manga z dokładnym dialogiem japońskim"></td>
+</tr></table>
+
+#### Dowód źródłowy
+
+- **Twórca:** [Yasun](https://x.com/yasun_ai)
+- **Oficjalny przykład:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
+- **Opublikowano:** 2026-07-21
+- **Kategoria:** Typografia i publikacja
 - **Wymaga obrazów referencyjnych:** Nie
 
 **[Użyj tego promptu w ImagineVid](https://imaginevid.io/pl/ai-image-generator)**

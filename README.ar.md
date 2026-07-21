@@ -54,7 +54,7 @@ Qwen Image 3.0 هو الجيل الثالث من نموذج إنشاء الصو�
 
 ## حالات العرض الرسمية الموثقة
 
-| حالة المجموعة | 12 حالة موثقة |
+| حالة المجموعة | 13 حالة موثقة |
 |---|---:|
 | آخر إنشاء | 2026-07-21 |
 
@@ -414,6 +414,39 @@ Use museum-quality editorial illustration rather than photoreal impersonation. P
 - **العرض الرسمي:** [Qwen Image 3.0](https://qwen.ai/blog?id=qwen-image-3.0)
 - **تاريخ النشر:** 2026-07-21
 - **الفئة:** الواجهات والمعرفة العالمية
+- **تتطلب صورًا مرجعية:** لا
+
+**[استخدم هذه المطالبة في ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
+
+---
+
+### 13. مانغا أحادية اللون من لوحتين بحوار ياباني دقيق
+
+إعادة بناء إنتاجية موثقة من المجتمع لاختبار استمرارية اللوحات والخط الهادئ والنص العمودي ودقة فقاعات الحوار.
+
+#### المطالبة
+
+```text
+Create a finished black-and-white manga page titled "目次だけの夜" using two wide horizontal panels stacked vertically. The characters are fictional adult online creators and must not resemble real people or copyrighted characters.
+
+Top panel: over-the-shoulder view of a dark-haired creator wearing cat-ear headphones and a track jacket, seated in a dim bedroom and facing a monitor. On the monitor, a pale-haired creator appears in a sparse video-call frame. Add exactly two vertical speech bubbles: the person on the monitor says "……ごめん" and the seated person says "昨日の配信の話しよ".
+
+Bottom panel: closer three-quarter view of the pale-haired creator wearing large headphones and a light hoodie, softly holding a thin translucent booklet. Only a table of contents is visible; the other pages contain no readable body text. Faint particles of light dissolve from the pages. The dark-haired creator appears only as a tiny chibi silhouette at the lower-left edge with dot eyes. Add exactly three vertical speech bubbles: "あらすじしか残ってないんだ", "日記の目次だけ持ってるみたいな", and the chibi reply "……ワロタ".
+
+Use clean seinen-manga linework, natural gray screentone, controlled white space, consistent clothing and headphone design across both panels, clear right-to-left reading order, and crisp natural Japanese lettering. Keep every quoted string exact. No color, no extra bubbles, no garbled glyphs, no logos, no watermarks, and no additional characters. 3:2 landscape page.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNv679EbwAAW6Ou.jpg" width="100%" alt="مانغا أحادية اللون من لوحتين بحوار ياباني دقيق"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HNv68WbaEAAKITj.jpg" width="100%" alt="مانغا أحادية اللون من لوحتين بحوار ياباني دقيق"></td>
+</tr></table>
+
+#### دليل المصدر
+
+- **المنشئ:** [Yasun](https://x.com/yasun_ai)
+- **العرض الرسمي:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
+- **تاريخ النشر:** 2026-07-21
+- **الفئة:** الطباعة والنشر
 - **تتطلب صورًا مرجعية:** لا
 
 **[استخدم هذه المطالبة في ImagineVid](https://imaginevid.io/ar/ai-image-generator)**

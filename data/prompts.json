@@ -202,5 +202,22 @@
     "needReferenceImages": false,
     "sourceMeta": {"source": "qwen-image-3-official-launch", "case_id": "deep-knowledge-art-livestream", "prompt_source": "english_production_reconstruction_from_official_showcase", "model_evidence": "qwen-image-3.0-official-blog", "curatedAt": "2026-07-21", "curation_note": "A safer, explicitly fictional production reconstruction of the official art-history livestream showcase."},
     "imageCategories": {"workflows": [{"id": 103, "title": "Interfaces & World Knowledge", "slug": "interfaces-and-world-knowledge"}]}
+  },
+  {
+    "id": 13,
+    "model": "Qwen Image 3.0",
+    "title": "Two-panel monochrome manga with exact Japanese dialogue",
+    "description": "A community-backed production reconstruction for testing panel continuity, restrained manga rendering, vertical Japanese text, and exact speech-bubble copy.",
+    "content": "Create a finished black-and-white manga page titled \"目次だけの夜\" using two wide horizontal panels stacked vertically. The characters are fictional adult online creators and must not resemble real people or copyrighted characters.\n\nTop panel: over-the-shoulder view of a dark-haired creator wearing cat-ear headphones and a track jacket, seated in a dim bedroom and facing a monitor. On the monitor, a pale-haired creator appears in a sparse video-call frame. Add exactly two vertical speech bubbles: the person on the monitor says \"……ごめん\" and the seated person says \"昨日の配信の話しよ\".\n\nBottom panel: closer three-quarter view of the pale-haired creator wearing large headphones and a light hoodie, softly holding a thin translucent booklet. Only a table of contents is visible; the other pages contain no readable body text. Faint particles of light dissolve from the pages. The dark-haired creator appears only as a tiny chibi silhouette at the lower-left edge with dot eyes. Add exactly three vertical speech bubbles: \"あらすじしか残ってないんだ\", \"日記の目次だけ持ってるみたいな\", and the chibi reply \"……ワロタ\".\n\nUse clean seinen-manga linework, natural gray screentone, controlled white space, consistent clothing and headphone design across both panels, clear right-to-left reading order, and crisp natural Japanese lettering. Keep every quoted string exact. No color, no extra bubbles, no garbled glyphs, no logos, no watermarks, and no additional characters. 3:2 landscape page.",
+    "sourceLink": "https://x.com/yasun_ai/status/2079531572919996636",
+    "sourcePublishedAt": "2026-07-21T11:38:57.000Z",
+    "sourceMedia": ["https://pbs.twimg.com/media/HNv679EbwAAW6Ou.jpg", "https://pbs.twimg.com/media/HNv68WbaEAAKITj.jpg"],
+    "author": {"name": "Yasun", "link": "https://x.com/yasun_ai"},
+    "language": "en",
+    "featured": true,
+    "sort": 13,
+    "needReferenceImages": false,
+    "sourceMeta": {"source": "x-community-output", "case_id": "community-japanese-two-panel-manga", "tweet_id": "2079531572919996636", "prompt_source": "english_production_reconstruction_from_visible_prompt_and_output", "model_evidence": "creator-labeled-qwen-image-3.0-output", "likeCount": 10, "bookmarkCount": 3, "viewCount": 623, "curatedAt": "2026-07-21", "curation_note": "The post identifies Qwen Image 3.0 and shows both a visible prompt excerpt and the generated result. The English production brief transparently reconstructs the complete layout without claiming to reproduce unseen source text."},
+    "imageCategories": {"workflows": [{"id": 102, "title": "Typography & Publication", "slug": "typography-and-publication"}]}
   }
 ]
