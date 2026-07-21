@@ -1,6 +1,6 @@
 /**
- * [INPUT]: 依赖 Qwen Image 3.0 仓库配置、案例、分类、本地化数据与生成后的 README 文件。
- * [OUTPUT]: 对外提供身份、重复、来源、媒体、多语言、继承残留与产品链接的失败门禁。
+ * [INPUT]: 依赖 Qwen Image 3.0 仓库配置、案例、分类、本地化数据、本地案例媒体与生成后的 README 文件。
+ * [OUTPUT]: 对外提供身份、重复、来源、远程或本地媒体完整性、多语言、继承残留与产品链接的失败门禁。
  * [POS]: scripts 的质量守门器，阻止模板遗留、无证据案例或不完整发布物进入主分支。
  * [PROTOCOL]: 变更时更新此头部，然后检查 AGENTS.md
  */
@@ -43,7 +43,9 @@ for (const prompt of prompts) {
   if (prompt.sourceLink !== repository.officialSources[0]) throw new Error(`Noncanonical source ${prompt.id}`);
   if (!prompt.sourceMedia?.length) throw new Error(`Missing result media ${prompt.id}`);
   for (const url of prompt.sourceMedia) {
-    if (!url.startsWith("https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen-Image/image3/")) {
+    const isOfficialRemote = url.startsWith("https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen-Image/image3/");
+    const isLocalOfficialCopy = url.startsWith("public/images/qwen-") && fs.existsSync(url);
+    if (!isOfficialRemote && !isLocalOfficialCopy) {
       throw new Error(`Unexpected media host ${prompt.id}`);
     }
     if (media.has(url)) throw new Error(`Duplicate media ${url}`);

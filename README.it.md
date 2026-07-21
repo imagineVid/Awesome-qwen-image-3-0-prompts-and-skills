@@ -220,7 +220,7 @@ The handwriting should look like one careful high-school student's natural pen w
 
 <table><tr>
 <td width="50%"><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen-Image/image3/update6.jpeg" width="100%" alt="Annotazioni di studio scritte a mano"></td>
-<td width="50%"><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen-Image/image3/update3.png" width="100%" alt="Annotazioni di studio scritte a mano"></td>
+<td width="50%"><img src="public/images/qwen-handwritten-annotations-result.png" width="100%" alt="Annotazioni di studio scritte a mano"></td>
 </tr></table>
 
 #### Prova della fonte
@@ -251,7 +251,7 @@ Use soft directional daylight, restrained neutral color, realistic dynamic range
 
 <table><tr>
 <td width="50%"><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen-Image/image3/people31_seed9999.png" width="100%" alt="Ritratto alla finestra senza ritocco"></td>
-<td width="50%"><img src="https://qianwen-res.oss-accelerate.aliyuncs.com/Qwen-Image/image3/1E9F2FB6-93AF-47FB-A60A-DE2A5572DF9F.png" width="100%" alt="Ritratto alla finestra senza ritocco"></td>
+<td width="50%"><img src="public/images/qwen-window-light-portrait-detail.png" width="100%" alt="Ritratto alla finestra senza ritocco"></td>
 </tr></table>
 
 #### Prova della fonte
