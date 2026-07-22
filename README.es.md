@@ -54,7 +54,7 @@ Qwen Image 3.0 es la tercera generación del modelo de creación y edición de i
 
 ## Casos oficiales verificados
 
-| Estado de la colección | 13 casos verificados |
+| Estado de la colección | 14 casos verificados |
 |---|---:|
 | Última generación | 2026-07-21 |
 
@@ -447,6 +447,32 @@ Use clean seinen-manga linework, natural gray screentone, controlled white space
 - **Demostración oficial:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
 - **Publicado:** 2026-07-21
 - **Categoría:** Tipografía y publicación
+- **Requiere imágenes de referencia:** No
+
+**[Usar este prompt en ImagineVid](https://imaginevid.io/es/ai-image-generator)**
+
+---
+
+### 14. Ascenso submarino hacia un único haz de luz
+
+Reconstrucción comunitaria centrada en tela sumergida, anatomía creíble, profundidad de partículas, espacio negativo y manos extendidas.
+
+#### Prompt
+
+```text
+Create a vertical cinematic underwater photograph of a fictional adult woman suspended in deep dark-blue water. She wears a translucent layered white dress that drifts naturally around her body. Her long black hair fans sideways with the current. Position her in the lower-middle of the frame, looking upward and extending one arm toward a narrow shaft of white light descending from the surface. From the darkness below, many pale hands reach upward without touching her; vary their scale and focus to create depth while keeping every hand anatomically plausible. Fine bubbles and particles catch the overhead light. Use cold cyan highlights, deep navy negative space, realistic water attenuation, restrained contrast, and a quiet surreal mood. Full-body vertical composition, no gore, no extra limbs on the main subject, no text, no logos, no watermark.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN0jqoUaQAAfC8i.jpg" width="100%" alt="Ascenso submarino hacia un único haz de luz"></td>
+</tr></table>
+
+#### Evidencia de la fuente
+
+- **Creador:** [Zidan](https://x.com/liluocheng13)
+- **Demostración oficial:** [Qwen Image 3.0](https://x.com/liluocheng13/status/2079857838676209967)
+- **Publicado:** 2026-07-22
+- **Categoría:** Fotorrealismo y detalle material
 - **Requiere imágenes de referencia:** No
 
 **[Usar este prompt en ImagineVid](https://imaginevid.io/es/ai-image-generator)**

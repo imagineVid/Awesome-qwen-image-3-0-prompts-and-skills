@@ -54,7 +54,7 @@ Qwen Image 3.0 é a terceira geração do modelo de geração e edição de imag
 
 ## Casos oficiais verificados
 
-| Estado da coleção | 13 casos verificados |
+| Estado da coleção | 14 casos verificados |
 |---|---:|
 | Última geração | 2026-07-21 |
 
@@ -447,6 +447,32 @@ Use clean seinen-manga linework, natural gray screentone, controlled white space
 - **Demonstração oficial:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
 - **Publicado:** 2026-07-21
 - **Categoria:** Tipografia e publicação
+- **Exige imagens de referência:** Não
+
+**[Usar este prompt no ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
+
+---
+
+### 14. Ascensão subaquática rumo a um único feixe de luz
+
+Reconstrução comunitária focada em tecido submerso, anatomia crível, profundidade de partículas, espaço negativo e mãos estendidas.
+
+#### Prompt
+
+```text
+Create a vertical cinematic underwater photograph of a fictional adult woman suspended in deep dark-blue water. She wears a translucent layered white dress that drifts naturally around her body. Her long black hair fans sideways with the current. Position her in the lower-middle of the frame, looking upward and extending one arm toward a narrow shaft of white light descending from the surface. From the darkness below, many pale hands reach upward without touching her; vary their scale and focus to create depth while keeping every hand anatomically plausible. Fine bubbles and particles catch the overhead light. Use cold cyan highlights, deep navy negative space, realistic water attenuation, restrained contrast, and a quiet surreal mood. Full-body vertical composition, no gore, no extra limbs on the main subject, no text, no logos, no watermark.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN0jqoUaQAAfC8i.jpg" width="100%" alt="Ascensão subaquática rumo a um único feixe de luz"></td>
+</tr></table>
+
+#### Evidência da fonte
+
+- **Criador:** [Zidan](https://x.com/liluocheng13)
+- **Demonstração oficial:** [Qwen Image 3.0](https://x.com/liluocheng13/status/2079857838676209967)
+- **Publicado:** 2026-07-22
+- **Categoria:** Fotorrealismo e detalhes de materiais
 - **Exige imagens de referência:** Não
 
 **[Usar este prompt no ImagineVid](https://imaginevid.io/pt/ai-image-generator)**

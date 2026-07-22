@@ -54,7 +54,7 @@ Qwen Image 3.0 は Qwen チームによる第3世代の画像生成・編集モ�
 
 ## 検証済み公式ショーケース
 
-| 収録状況 | 13 件の検証済み事例 |
+| 収録状況 | 14 件の検証済み事例 |
 |---|---:|
 | 最終生成日 | 2026-07-21 |
 
@@ -447,6 +447,32 @@ Use clean seinen-manga linework, natural gray screentone, controlled white space
 - **公式ショーケース:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
 - **公開日:** 2026-07-21
 - **カテゴリー:** タイポグラフィと出版
+- **参照画像が必要:** いいえ
+
+**[ImagineVid でこのプロンプトを使う](https://imaginevid.io/ja/ai-image-generator)**
+
+---
+
+### 14. 一本の光へ浮上する水中の人物
+
+水中の布、自然な人体、粒子の奥行き、余白、多数の伸びる手に焦点を当てたコミュニティ出力の制作再構成。
+
+#### プロンプト
+
+```text
+Create a vertical cinematic underwater photograph of a fictional adult woman suspended in deep dark-blue water. She wears a translucent layered white dress that drifts naturally around her body. Her long black hair fans sideways with the current. Position her in the lower-middle of the frame, looking upward and extending one arm toward a narrow shaft of white light descending from the surface. From the darkness below, many pale hands reach upward without touching her; vary their scale and focus to create depth while keeping every hand anatomically plausible. Fine bubbles and particles catch the overhead light. Use cold cyan highlights, deep navy negative space, realistic water attenuation, restrained contrast, and a quiet surreal mood. Full-body vertical composition, no gore, no extra limbs on the main subject, no text, no logos, no watermark.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN0jqoUaQAAfC8i.jpg" width="100%" alt="一本の光へ浮上する水中の人物"></td>
+</tr></table>
+
+#### 出典情報
+
+- **作成者:** [Zidan](https://x.com/liluocheng13)
+- **公式ショーケース:** [Qwen Image 3.0](https://x.com/liluocheng13/status/2079857838676209967)
+- **公開日:** 2026-07-22
+- **カテゴリー:** 写実表現と素材ディテール
 - **参照画像が必要:** いいえ
 
 **[ImagineVid でこのプロンプトを使う](https://imaginevid.io/ja/ai-image-generator)**

@@ -54,7 +54,7 @@ Qwen Image 3.0 是 Qwen 团队推出的第三代图像生成与编辑模型。�
 
 ## 已核验的官方案例
 
-| 合集状态 | 13 个已核验案例 |
+| 合集状态 | 14 个已核验案例 |
 |---|---:|
 | 最近生成 | 2026-07-21 |
 
@@ -447,6 +447,32 @@ Use clean seinen-manga linework, natural gray screentone, controlled white space
 - **官方展示:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
 - **发布时间:** 2026-07-21
 - **分类:** 排版与出版
+- **需要参考图:** 否
+
+**[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
+### 14. 向唯一光束上浮的水下人物
+
+基于社区成片重构的制作提示词，聚焦水下布料、可信人体、颗粒纵深、负空间与大量伸出的手。
+
+#### 提示词
+
+```text
+Create a vertical cinematic underwater photograph of a fictional adult woman suspended in deep dark-blue water. She wears a translucent layered white dress that drifts naturally around her body. Her long black hair fans sideways with the current. Position her in the lower-middle of the frame, looking upward and extending one arm toward a narrow shaft of white light descending from the surface. From the darkness below, many pale hands reach upward without touching her; vary their scale and focus to create depth while keeping every hand anatomically plausible. Fine bubbles and particles catch the overhead light. Use cold cyan highlights, deep navy negative space, realistic water attenuation, restrained contrast, and a quiet surreal mood. Full-body vertical composition, no gore, no extra limbs on the main subject, no text, no logos, no watermark.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN0jqoUaQAAfC8i.jpg" width="100%" alt="向唯一光束上浮的水下人物"></td>
+</tr></table>
+
+#### 来源证据
+
+- **创作者:** [Zidan](https://x.com/liluocheng13)
+- **官方展示:** [Qwen Image 3.0](https://x.com/liluocheng13/status/2079857838676209967)
+- **发布时间:** 2026-07-22
+- **分类:** 写实摄影与材质细节
 - **需要参考图:** 否
 
 **[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**

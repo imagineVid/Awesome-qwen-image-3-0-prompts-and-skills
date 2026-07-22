@@ -54,7 +54,7 @@ Qwen Image 3.0 è la terza generazione del modello di generazione e modifica del
 
 ## Casi ufficiali verificati
 
-| Stato della raccolta | 13 casi verificati |
+| Stato della raccolta | 14 casi verificati |
 |---|---:|
 | Ultima generazione | 2026-07-21 |
 
@@ -447,6 +447,32 @@ Use clean seinen-manga linework, natural gray screentone, controlled white space
 - **Esempio ufficiale:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
 - **Pubblicato:** 2026-07-21
 - **Categoria:** Tipografia e pubblicazione
+- **Immagini di riferimento necessarie:** No
+
+**[Usa questo prompt su ImagineVid](https://imaginevid.io/it/ai-image-generator)**
+
+---
+
+### 14. Ascesa subacquea verso un unico fascio di luce
+
+Ricostruzione comunitaria incentrata su tessuto sommerso, anatomia credibile, profondità delle particelle, spazio negativo e mani tese.
+
+#### Prompt
+
+```text
+Create a vertical cinematic underwater photograph of a fictional adult woman suspended in deep dark-blue water. She wears a translucent layered white dress that drifts naturally around her body. Her long black hair fans sideways with the current. Position her in the lower-middle of the frame, looking upward and extending one arm toward a narrow shaft of white light descending from the surface. From the darkness below, many pale hands reach upward without touching her; vary their scale and focus to create depth while keeping every hand anatomically plausible. Fine bubbles and particles catch the overhead light. Use cold cyan highlights, deep navy negative space, realistic water attenuation, restrained contrast, and a quiet surreal mood. Full-body vertical composition, no gore, no extra limbs on the main subject, no text, no logos, no watermark.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN0jqoUaQAAfC8i.jpg" width="100%" alt="Ascesa subacquea verso un unico fascio di luce"></td>
+</tr></table>
+
+#### Prova della fonte
+
+- **Autore:** [Zidan](https://x.com/liluocheng13)
+- **Esempio ufficiale:** [Qwen Image 3.0](https://x.com/liluocheng13/status/2079857838676209967)
+- **Pubblicato:** 2026-07-22
+- **Categoria:** Fotorealismo e dettaglio dei materiali
 - **Immagini di riferimento necessarie:** No
 
 **[Usa questo prompt su ImagineVid](https://imaginevid.io/it/ai-image-generator)**

@@ -54,7 +54,7 @@ Qwen Image 3.0 ist die dritte Generation des Bildgenerierungs- und Bearbeitungsm
 
 ## Geprüfte offizielle Beispiele
 
-| Sammlungsstatus | 13 geprüfte Beispiele |
+| Sammlungsstatus | 14 geprüfte Beispiele |
 |---|---:|
 | Zuletzt erstellt | 2026-07-21 |
 
@@ -447,6 +447,32 @@ Use clean seinen-manga linework, natural gray screentone, controlled white space
 - **Offizielles Beispiel:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
 - **Veröffentlicht:** 2026-07-21
 - **Kategorie:** Typografie und Publikation
+- **Referenzbilder erforderlich:** Nein
+
+**[Diesen Prompt in ImagineVid verwenden](https://imaginevid.io/de/ai-image-generator)**
+
+---
+
+### 14. Unterwasser-Aufstieg zu einem einzigen Lichtstrahl
+
+Community-basierte Rekonstruktion mit Fokus auf Unterwasserstoff, glaubhafte Anatomie, Partikeltiefe, Negativraum und viele Hände.
+
+#### Prompt
+
+```text
+Create a vertical cinematic underwater photograph of a fictional adult woman suspended in deep dark-blue water. She wears a translucent layered white dress that drifts naturally around her body. Her long black hair fans sideways with the current. Position her in the lower-middle of the frame, looking upward and extending one arm toward a narrow shaft of white light descending from the surface. From the darkness below, many pale hands reach upward without touching her; vary their scale and focus to create depth while keeping every hand anatomically plausible. Fine bubbles and particles catch the overhead light. Use cold cyan highlights, deep navy negative space, realistic water attenuation, restrained contrast, and a quiet surreal mood. Full-body vertical composition, no gore, no extra limbs on the main subject, no text, no logos, no watermark.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN0jqoUaQAAfC8i.jpg" width="100%" alt="Unterwasser-Aufstieg zu einem einzigen Lichtstrahl"></td>
+</tr></table>
+
+#### Quellennachweis
+
+- **Urheber:** [Zidan](https://x.com/liluocheng13)
+- **Offizielles Beispiel:** [Qwen Image 3.0](https://x.com/liluocheng13/status/2079857838676209967)
+- **Veröffentlicht:** 2026-07-22
+- **Kategorie:** Fotorealismus und Materialdetails
 - **Referenzbilder erforderlich:** Nein
 
 **[Diesen Prompt in ImagineVid verwenden](https://imaginevid.io/de/ai-image-generator)**

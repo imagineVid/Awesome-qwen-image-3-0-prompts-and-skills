@@ -54,7 +54,7 @@ Qwen Image 3.0은 Qwen 팀의 3세대 이미지 생성·편집 모델입니다. 
 
 ## 검증된 공식 쇼케이스
 
-| 컬렉션 상태 | 13 개의 검증 사례 |
+| 컬렉션 상태 | 14 개의 검증 사례 |
 |---|---:|
 | 최근 생성일 | 2026-07-21 |
 
@@ -447,6 +447,32 @@ Use clean seinen-manga linework, natural gray screentone, controlled white space
 - **공식 쇼케이스:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
 - **게시일:** 2026-07-21
 - **분류:** 타이포그래피 및 출판
+- **참조 이미지 필요:** 아니요
+
+**[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
+
+---
+
+### 14. 한 줄기 빛으로 떠오르는 수중 인물
+
+수중 천, 자연스러운 인체, 입자 깊이, 여백과 수많은 뻗은 손에 집중한 커뮤니티 결과의 제작 재구성.
+
+#### 프롬프트
+
+```text
+Create a vertical cinematic underwater photograph of a fictional adult woman suspended in deep dark-blue water. She wears a translucent layered white dress that drifts naturally around her body. Her long black hair fans sideways with the current. Position her in the lower-middle of the frame, looking upward and extending one arm toward a narrow shaft of white light descending from the surface. From the darkness below, many pale hands reach upward without touching her; vary their scale and focus to create depth while keeping every hand anatomically plausible. Fine bubbles and particles catch the overhead light. Use cold cyan highlights, deep navy negative space, realistic water attenuation, restrained contrast, and a quiet surreal mood. Full-body vertical composition, no gore, no extra limbs on the main subject, no text, no logos, no watermark.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN0jqoUaQAAfC8i.jpg" width="100%" alt="한 줄기 빛으로 떠오르는 수중 인물"></td>
+</tr></table>
+
+#### 출처 근거
+
+- **제작자:** [Zidan](https://x.com/liluocheng13)
+- **공식 쇼케이스:** [Qwen Image 3.0](https://x.com/liluocheng13/status/2079857838676209967)
+- **게시일:** 2026-07-22
+- **분류:** 사실적 표현과 소재 디테일
 - **참조 이미지 필요:** 아니요
 
 **[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**

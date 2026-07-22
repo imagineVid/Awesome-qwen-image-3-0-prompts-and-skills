@@ -54,7 +54,7 @@ Qwen Image 3.0 is de derde generatie van het beeldgeneratie- en bewerkingsmodel 
 
 ## Geverifieerde officiële voorbeelden
 
-| Status van de collectie | 13 geverifieerde voorbeelden |
+| Status van de collectie | 14 geverifieerde voorbeelden |
 |---|---:|
 | Laatst gegenereerd | 2026-07-21 |
 
@@ -447,6 +447,32 @@ Use clean seinen-manga linework, natural gray screentone, controlled white space
 - **Officiële demonstratie:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
 - **Gepubliceerd:** 2026-07-21
 - **Categorie:** Typografie en publicatie
+- **Referentiebeelden vereist:** Nee
+
+**[Gebruik deze prompt in ImagineVid](https://imaginevid.io/nl/ai-image-generator)**
+
+---
+
+### 14. Onderwater opstijgen naar één lichtstraal
+
+Community-reconstructie gericht op onderwaterstof, geloofwaardige anatomie, deeltjesdiepte, negatieve ruimte en reikende handen.
+
+#### Prompt
+
+```text
+Create a vertical cinematic underwater photograph of a fictional adult woman suspended in deep dark-blue water. She wears a translucent layered white dress that drifts naturally around her body. Her long black hair fans sideways with the current. Position her in the lower-middle of the frame, looking upward and extending one arm toward a narrow shaft of white light descending from the surface. From the darkness below, many pale hands reach upward without touching her; vary their scale and focus to create depth while keeping every hand anatomically plausible. Fine bubbles and particles catch the overhead light. Use cold cyan highlights, deep navy negative space, realistic water attenuation, restrained contrast, and a quiet surreal mood. Full-body vertical composition, no gore, no extra limbs on the main subject, no text, no logos, no watermark.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN0jqoUaQAAfC8i.jpg" width="100%" alt="Onderwater opstijgen naar één lichtstraal"></td>
+</tr></table>
+
+#### Bronbewijs
+
+- **Maker:** [Zidan](https://x.com/liluocheng13)
+- **Officiële demonstratie:** [Qwen Image 3.0](https://x.com/liluocheng13/status/2079857838676209967)
+- **Gepubliceerd:** 2026-07-22
+- **Categorie:** Fotorealisme en materiaaldetail
 - **Referentiebeelden vereist:** Nee
 
 **[Gebruik deze prompt in ImagineVid](https://imaginevid.io/nl/ai-image-generator)**

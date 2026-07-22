@@ -54,7 +54,7 @@ Qwen Image 3.0 — третье поколение модели генераци
 
 ## Проверенные официальные примеры
 
-| Состояние коллекции | 13 проверенных примеров |
+| Состояние коллекции | 14 проверенных примеров |
 |---|---:|
 | Последнее обновление | 2026-07-21 |
 
@@ -447,6 +447,32 @@ Use clean seinen-manga linework, natural gray screentone, controlled white space
 - **Официальная демонстрация:** [Qwen Image 3.0](https://x.com/yasun_ai/status/2079531572919996636)
 - **Опубликовано:** 2026-07-21
 - **Категория:** Типографика и публикации
+- **Нужны референсные изображения:** Нет
+
+**[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
+
+---
+
+### 14. Подводный подъём к единственному лучу света
+
+Реконструкция по результату сообщества с акцентом на ткань под водой, анатомию, глубину частиц, пустое пространство и руки.
+
+#### Промпт
+
+```text
+Create a vertical cinematic underwater photograph of a fictional adult woman suspended in deep dark-blue water. She wears a translucent layered white dress that drifts naturally around her body. Her long black hair fans sideways with the current. Position her in the lower-middle of the frame, looking upward and extending one arm toward a narrow shaft of white light descending from the surface. From the darkness below, many pale hands reach upward without touching her; vary their scale and focus to create depth while keeping every hand anatomically plausible. Fine bubbles and particles catch the overhead light. Use cold cyan highlights, deep navy negative space, realistic water attenuation, restrained contrast, and a quiet surreal mood. Full-body vertical composition, no gore, no extra limbs on the main subject, no text, no logos, no watermark.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN0jqoUaQAAfC8i.jpg" width="100%" alt="Подводный подъём к единственному лучу света"></td>
+</tr></table>
+
+#### Подтверждение источника
+
+- **Автор:** [Zidan](https://x.com/liluocheng13)
+- **Официальная демонстрация:** [Qwen Image 3.0](https://x.com/liluocheng13/status/2079857838676209967)
+- **Опубликовано:** 2026-07-22
+- **Категория:** Фотореализм и детали материалов
 - **Нужны референсные изображения:** Нет
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
