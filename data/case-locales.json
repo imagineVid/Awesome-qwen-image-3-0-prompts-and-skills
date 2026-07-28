@@ -55,6 +55,18 @@
     "14": {
       "title": "向唯一光束上浮的水下人物",
       "description": "基于社区成片重构的制作提示词，聚焦水下布料、可信人体、颗粒纵深、负空间与大量伸出的手。"
+    },
+    "15": {
+      "title": "嵌套代码编辑器与聊天海报流程",
+      "description": "用于检验可读界面文字、画面纵深与聊天工作区内海报生成能力的分层 UI 构图提示词。"
+    },
+    "16": {
+      "title": "雨中伊斯坦布尔街景文字测试",
+      "description": "面向土耳其语字形、手写体、湿地反光、自然人群细节与写实人体结构的多语言街景提示词。"
+    },
+    "17": {
+      "title": "复古 coquette 参考人像特写",
+      "description": "聚焦身份保留、真实皮肤纹理、旧玫瑰色造型与近景编辑构图的参考图人像提示词。"
     }
   },
   "ja": {
@@ -113,6 +125,18 @@
     "14": {
       "title": "一本の光へ浮上する水中の人物",
       "description": "水中の布、自然な人体、粒子の奥行き、余白、多数の伸びる手に焦点を当てたコミュニティ出力の制作再構成。"
+    },
+    "15": {
+      "title": "入れ子状コードエディターとチャットポスター",
+      "description": "読みやすい UI 文字、奥行きのある画面構成、チャット内ポスター生成を検証するレイヤー型プロンプト。"
+    },
+    "16": {
+      "title": "雨のイスタンブール街頭テキストテスト",
+      "description": "トルコ語表記、手書き文字、濡れた路面反射、自然な群衆、写実的な人体を検証する街景プロンプト。"
+    },
+    "17": {
+      "title": "ヴィンテージ coquette 参照ポートレート",
+      "description": "本人らしさ、自然な肌質、オールドローズ調のスタイリング、近接編集フレーミングに集中した参照画像プロンプト。"
     }
   },
   "ko": {
@@ -171,6 +195,18 @@
     "14": {
       "title": "한 줄기 빛으로 떠오르는 수중 인물",
       "description": "수중 천, 자연스러운 인체, 입자 깊이, 여백과 수많은 뻗은 손에 집중한 커뮤니티 결과의 제작 재구성."
+    },
+    "15": {
+      "title": "중첩 코드 편집기와 채팅 포스터 워크플로",
+      "description": "읽기 쉬운 UI 텍스트, 공간 깊이, 채팅 작업공간 안의 포스터 생성을 검증하는 레이어형 프롬프트."
+    },
+    "16": {
+      "title": "비 오는 이스탄불 거리 텍스트 테스트",
+      "description": "튀르키예어 철자, 손글씨, 젖은 표면 반사, 자연스러운 군중, 사실적인 인체를 점검하는 거리 장면 프롬프트."
+    },
+    "17": {
+      "title": "빈티지 코케트 참조 인물 클로즈업",
+      "description": "정체성 보존, 사실적인 피부 질감, 올드 로즈 스타일링, 근접 편집 구도에 초점을 둔 참조 이미지 프롬프트."
     }
   },
   "es": {
@@ -229,6 +265,18 @@
     "14": {
       "title": "Ascenso submarino hacia un único haz de luz",
       "description": "Reconstrucción comunitaria centrada en tela sumergida, anatomía creíble, profundidad de partículas, espacio negativo y manos extendidas."
+    },
+    "15": {
+      "title": "Editor de código anidado y cartel en chat",
+      "description": "Prompt de interfaz por capas para probar texto UI legible, profundidad espacial y generación de un cartel dentro de un chat."
+    },
+    "16": {
+      "title": "Prueba de texto en una calle lluviosa de Estambul",
+      "description": "Escena urbana multilingüe para evaluar letras turcas, escritura manual, reflejos de lluvia, multitudes naturales y anatomía realista."
+    },
+    "17": {
+      "title": "Retrato coquette vintage con referencia",
+      "description": "Prompt de retrato con referencia centrado en preservar identidad, textura real de piel, estilo rosa antiguo y encuadre editorial cerrado."
     }
   },
   "de": {
@@ -287,6 +335,18 @@
     "14": {
       "title": "Unterwasser-Aufstieg zu einem einzigen Lichtstrahl",
       "description": "Community-basierte Rekonstruktion mit Fokus auf Unterwasserstoff, glaubhafte Anatomie, Partikeltiefe, Negativraum und viele Hände."
+    },
+    "15": {
+      "title": "Verschachtelter Code-Editor mit Chat-Poster",
+      "description": "Mehrschichtiger UI-Prompt zum Prüfen lesbarer Oberflächentexte, räumlicher Tiefe und Poster-Erzeugung im Chat."
+    },
+    "16": {
+      "title": "Regnerische Istanbul-Szene als Texttest",
+      "description": "Mehrsprachiger Straßenszenen-Prompt für türkische Schrift, Handschrift, nasse Reflexionen, natürliche Menschenmengen und realistische Anatomie."
+    },
+    "17": {
+      "title": "Vintage-Coquette-Referenzporträt",
+      "description": "Referenzgeführter Beauty-Prompt für Identitätserhalt, realistische Hautstruktur, altrosa Styling und engen Editorial-Beschnitt."
     }
   },
   "fr": {
@@ -345,6 +405,18 @@
     "14": {
       "title": "Ascension sous-marine vers un unique rayon",
       "description": "Reconstruction communautaire axée sur tissu immergé, anatomie crédible, profondeur particulaire, espace négatif et mains tendues."
+    },
+    "15": {
+      "title": "Editeur de code imbrique et affiche dans le chat",
+      "description": "Prompt d interface en couches pour tester le texte UI lisible, la profondeur spatiale et la creation d affiche dans un chat."
+    },
+    "16": {
+      "title": "Test de texte dans une rue pluvieuse d Istanbul",
+      "description": "Scene urbaine multilingue pour verifier les caracteres turcs, l ecriture manuscrite, les reflets mouilles, la foule naturelle et l anatomie realiste."
+    },
+    "17": {
+      "title": "Portrait coquette vintage avec reference",
+      "description": "Prompt de portrait guide par reference, centre sur l identite, la texture de peau realiste, le style vieux rose et le cadrage editorial serre."
     }
   },
   "it": {
@@ -403,6 +475,18 @@
     "14": {
       "title": "Ascesa subacquea verso un unico fascio di luce",
       "description": "Ricostruzione comunitaria incentrata su tessuto sommerso, anatomia credibile, profondità delle particelle, spazio negativo e mani tese."
+    },
+    "15": {
+      "title": "Editor di codice annidato e poster in chat",
+      "description": "Prompt UI a livelli per testare testo leggibile, profondita spaziale e generazione di un poster dentro una chat."
+    },
+    "16": {
+      "title": "Test di testo in una strada piovosa di Istanbul",
+      "description": "Scena urbana multilingue per verificare lettere turche, scrittura a mano, riflessi bagnati, folla naturale e anatomia realistica."
+    },
+    "17": {
+      "title": "Ritratto coquette vintage con riferimento",
+      "description": "Prompt ritratto guidato da riferimento per conservare identita, pelle realistica, stile rosa antico e inquadratura editoriale ravvicinata."
     }
   },
   "pt": {
@@ -461,6 +545,18 @@
     "14": {
       "title": "Ascensão subaquática rumo a um único feixe de luz",
       "description": "Reconstrução comunitária focada em tecido submerso, anatomia crível, profundidade de partículas, espaço negativo e mãos estendidas."
+    },
+    "15": {
+      "title": "Editor de codigo aninhado e poster no chat",
+      "description": "Prompt de interface em camadas para testar texto de UI legivel, profundidade espacial e geracao de poster dentro de um chat."
+    },
+    "16": {
+      "title": "Teste de texto em rua chuvosa de Istambul",
+      "description": "Cena urbana multilingue para avaliar letras turcas, escrita manual, reflexos molhados, multidoes naturais e anatomia realista."
+    },
+    "17": {
+      "title": "Retrato coquette vintage com referencia",
+      "description": "Prompt de retrato guiado por referencia focado em identidade, textura real de pele, estilo rosa antigo e enquadramento editorial fechado."
     }
   },
   "nl": {
@@ -519,6 +615,18 @@
     "14": {
       "title": "Onderwater opstijgen naar één lichtstraal",
       "description": "Community-reconstructie gericht op onderwaterstof, geloofwaardige anatomie, deeltjesdiepte, negatieve ruimte en reikende handen."
+    },
+    "15": {
+      "title": "Geneste code-editor en chatposterworkflow",
+      "description": "Een gelaagde interfaceprompt die leesbare UI-tekst, ruimtelijke diepte en postercreatie binnen een chatwerkruimte test."
+    },
+    "16": {
+      "title": "Teksttest in een regenachtige straat in Istanbul",
+      "description": "Een meertalige straatscene voor Turkse letters, handschrift, natte reflecties, natuurlijke drukte en fotorealistische anatomie."
+    },
+    "17": {
+      "title": "Vintage coquette referentieportret close-up",
+      "description": "Een referentiegestuurde beautyprompt rond identiteitsbehoud, realistische huidtextuur, oudroze styling en nauwe editoriale kadrering."
     }
   },
   "pl": {
@@ -577,6 +685,18 @@
     "14": {
       "title": "Podwodne wznoszenie ku pojedynczej smudze światła",
       "description": "Rekonstrukcja na podstawie pracy społeczności, skupiona na tkaninie pod wodą, anatomii, głębi cząstek, pustej przestrzeni i dłoniach."
+    },
+    "15": {
+      "title": "Zagniezdzony edytor kodu i plakat w czacie",
+      "description": "Warstwowy prompt interfejsu do testowania czytelnego tekstu UI, glebi przestrzennej i generowania plakatu wewnatrz czatu."
+    },
+    "16": {
+      "title": "Test tekstu na deszczowej ulicy Stambulu",
+      "description": "Wielojezyczna scena uliczna sprawdzajaca tureckie znaki, pismo reczne, mokre odbicia, naturalny tlum i realistyczna anatomie."
+    },
+    "17": {
+      "title": "Vintage portret coquette z referencja",
+      "description": "Prompt portretowy prowadzony referencja, skupiony na zachowaniu tozsamosci, realistycznej skorze, stylu starego rozu i ciasnym kadrze editorialowym."
     }
   },
   "ru": {
@@ -635,6 +755,18 @@
     "14": {
       "title": "Подводный подъём к единственному лучу света",
       "description": "Реконструкция по результату сообщества с акцентом на ткань под водой, анатомию, глубину частиц, пустое пространство и руки."
+    },
+    "15": {
+      "title": "Вложенный редактор кода и постер в чате",
+      "description": "Многослойный UI-промпт для проверки читаемого текста интерфейса, глубины кадра и генерации постера внутри чата."
+    },
+    "16": {
+      "title": "Дождливая улица Стамбула для проверки текста",
+      "description": "Многоязычная уличная сцена для турецких букв, рукописного текста, мокрых отражений, естественной толпы и реалистичной анатомии."
+    },
+    "17": {
+      "title": "Винтажный coquette-портрет по референсу",
+      "description": "Промпт портрета по референсу с упором на сохранение идентичности, реалистичную кожу, старо-розовый стиль и крупный журнальный кадр."
     }
   },
   "tr": {
@@ -693,6 +825,18 @@
     "14": {
       "title": "Tek bir ışık huzmesine doğru sualtı yükselişi",
       "description": "Sualtı kumaşı, inandırıcı anatomi, parçacık derinliği, negatif alan ve uzanan ellere odaklanan topluluk çıktısı rekonstrüksiyonu."
+    },
+    "15": {
+      "title": "Ic ice kod editoru ve sohbet posteri is akisi",
+      "description": "Okunabilir arayuz metni, mekansal derinlik ve sohbet icinde poster uretimini test eden katmanli UI istemi."
+    },
+    "16": {
+      "title": "Yagmurlu Istanbul sokagi metin testi",
+      "description": "Turkce harfleri, el yazisini, islak yuzey yansimalarini, dogal kalabaligi ve gercekci anatomiyi olcen cok dilli sokak sahnesi istemi."
+    },
+    "17": {
+      "title": "Vintage coquette referans portresi",
+      "description": "Kimlik koruma, gercekci cilt dokusu, eski gul tonu stil ve yakin editorial kadraja odaklanan referansli portre istemi."
     }
   },
   "ar": {
@@ -751,6 +895,18 @@
     "14": {
       "title": "صعود تحت الماء نحو شعاع ضوء واحد",
       "description": "إعادة بناء من نتيجة مجتمعية تركز على القماش المغمور والتشريح المقنع وعمق الجزيئات والمساحة السلبية والأيدي الممتدة."
+    },
+    "15": {
+      "title": "محرر كود متداخل مع ملصق داخل الدردشة",
+      "description": "وصف متعدد الطبقات لاختبار وضوح نصوص الواجهة وعمق المشهد وتوليد ملصق داخل نافذة دردشة."
+    },
+    "16": {
+      "title": "اختبار نص في شارع ممطر في اسطنبول",
+      "description": "مشهد شارع متعدد اللغات لاختبار الحروف التركية والكتابة اليدوية وانعكاسات المطر والحشود الطبيعية والتشريح الواقعي."
+    },
+    "17": {
+      "title": "بورتريه coquette عتيق بالاعتماد على مرجع",
+      "description": "وصف بورتريه مرجعي يركز على حفظ الهوية وملمس الجلد الواقعي ولوحة وردية قديمة وتأطير تحريري قريب."
     }
   }
 }

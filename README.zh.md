@@ -54,7 +54,7 @@ Qwen Image 3.0 是 Qwen 团队推出的第三代图像生成与编辑模型。�
 
 ## 已核验的官方案例
 
-| 合集状态 | 14 个已核验案例 |
+| 合集状态 | 17 个已核验案例 |
 |---|---:|
 | 最近生成 | 2026-07-21 |
 
@@ -474,6 +474,95 @@ Create a vertical cinematic underwater photograph of a fictional adult woman sus
 - **发布时间:** 2026-07-22
 - **分类:** 写实摄影与材质细节
 - **需要参考图:** 否
+
+**[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
+### 15. 嵌套代码编辑器与聊天海报流程
+
+用于检验可读界面文字、画面纵深与聊天工作区内海报生成能力的分层 UI 构图提示词。
+
+#### 提示词
+
+```text
+Create a layered picture-in-picture interface scene with strong visual depth. The outer layer is a realistic VS Code programming workspace on a desktop monitor. Inside that workspace, show a Qwen-style chat application window where the user is sending the message: "Create a hand-brewed coffee poster." The assistant reply contains a polished coffee poster, and the poster remains clearly visible inside the chat window.
+
+Keep every layer visually distinct: code editor chrome, chat sidebar, message bubbles, poster frame, toolbar buttons, timestamps, and small UI labels. Make the micro-text crisp enough to read, avoid distorted pseudo-letters, preserve realistic spacing, and use clean modern interface lighting. The coffee poster should feel like a premium specialty-cafe campaign with warm paper texture, elegant typography, roasted-bean details, and a clear headline. 16:9, high-resolution, sharp layout.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-ydubbcAAPs_n.png" width="100%" alt="嵌套代码编辑器与聊天海报流程"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-yelfakAAjQN9.png" width="100%" alt="嵌套代码编辑器与聊天海报流程"></td>
+</tr></table>
+
+#### 来源证据
+
+- **创作者:** [比特小师妹｜KiKi](https://x.com/bit_sister)
+- **官方展示:** [Qwen Image 3.0](https://x.com/bit_sister/status/2080577815376957798)
+- **发布时间:** 2026-07-24
+- **分类:** 写实摄影与材质细节
+- **需要参考图:** 否
+
+**[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
+### 16. 雨中伊斯坦布尔街景文字测试
+
+面向土耳其语字形、手写体、湿地反光、自然人群细节与写实人体结构的多语言街景提示词。
+
+#### 提示词
+
+```text
+Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.
+
+Show a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.
+```
+
+<table><tr>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="雨中伊斯坦布尔街景文字测试"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="雨中伊斯坦布尔街景文字测试"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="雨中伊斯坦布尔街景文字测试"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="雨中伊斯坦布尔街景文字测试"></td>
+</tr></table>
+
+#### 来源证据
+
+- **创作者:** [Ozan Sihay](https://x.com/ozansihay)
+- **官方展示:** [Qwen Image 3.0](https://x.com/ozansihay/status/2080218385607008613)
+- **发布时间:** 2026-07-23
+- **分类:** 写实摄影与材质细节
+- **需要参考图:** 否
+
+**[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
+### 17. 复古 coquette 参考人像特写
+
+聚焦身份保留、真实皮肤纹理、旧玫瑰色造型与近景编辑构图的参考图人像提示词。
+
+#### 提示词
+
+```text
+Use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and subtle natural asymmetry.
+
+Create a premium extreme close-up studio beauty portrait using a dreamy vintage coquette rendering style, translated into a richer old-rose editorial palette. Frame tightly from the upper shoulders upward. Use soft diffused key light, pearl highlights, muted rose makeup, delicate lace or satin styling, shallow depth of field, and refined film-grain texture. Keep the expression calm and natural, preserve believable eyes and hair detail, avoid over-smoothed skin, and make the result feel like a high-end magazine beauty cover rather than a plastic retouch. Square format, crisp detail.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5YtbNaYAAOIFV.jpg" width="100%" alt="复古 coquette 参考人像特写"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5Yum6bAAAIApb.jpg" width="100%" alt="复古 coquette 参考人像特写"></td>
+</tr></table>
+
+#### 来源证据
+
+- **创作者:** [Rich · Atom Tan Studio](https://x.com/atomtanstudio)
+- **官方展示:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
+- **发布时间:** 2026-07-23
+- **分类:** 写实摄影与材质细节
+- **需要参考图:** 是
 
 **[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
 

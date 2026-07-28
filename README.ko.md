@@ -54,7 +54,7 @@ Qwen Image 3.0은 Qwen 팀의 3세대 이미지 생성·편집 모델입니다. 
 
 ## 검증된 공식 쇼케이스
 
-| 컬렉션 상태 | 14 개의 검증 사례 |
+| 컬렉션 상태 | 17 개의 검증 사례 |
 |---|---:|
 | 최근 생성일 | 2026-07-21 |
 
@@ -474,6 +474,95 @@ Create a vertical cinematic underwater photograph of a fictional adult woman sus
 - **게시일:** 2026-07-22
 - **분류:** 사실적 표현과 소재 디테일
 - **참조 이미지 필요:** 아니요
+
+**[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
+
+---
+
+### 15. 중첩 코드 편집기와 채팅 포스터 워크플로
+
+읽기 쉬운 UI 텍스트, 공간 깊이, 채팅 작업공간 안의 포스터 생성을 검증하는 레이어형 프롬프트.
+
+#### 프롬프트
+
+```text
+Create a layered picture-in-picture interface scene with strong visual depth. The outer layer is a realistic VS Code programming workspace on a desktop monitor. Inside that workspace, show a Qwen-style chat application window where the user is sending the message: "Create a hand-brewed coffee poster." The assistant reply contains a polished coffee poster, and the poster remains clearly visible inside the chat window.
+
+Keep every layer visually distinct: code editor chrome, chat sidebar, message bubbles, poster frame, toolbar buttons, timestamps, and small UI labels. Make the micro-text crisp enough to read, avoid distorted pseudo-letters, preserve realistic spacing, and use clean modern interface lighting. The coffee poster should feel like a premium specialty-cafe campaign with warm paper texture, elegant typography, roasted-bean details, and a clear headline. 16:9, high-resolution, sharp layout.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-ydubbcAAPs_n.png" width="100%" alt="중첩 코드 편집기와 채팅 포스터 워크플로"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-yelfakAAjQN9.png" width="100%" alt="중첩 코드 편집기와 채팅 포스터 워크플로"></td>
+</tr></table>
+
+#### 출처 근거
+
+- **제작자:** [比特小师妹｜KiKi](https://x.com/bit_sister)
+- **공식 쇼케이스:** [Qwen Image 3.0](https://x.com/bit_sister/status/2080577815376957798)
+- **게시일:** 2026-07-24
+- **분류:** 사실적 표현과 소재 디테일
+- **참조 이미지 필요:** 아니요
+
+**[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
+
+---
+
+### 16. 비 오는 이스탄불 거리 텍스트 테스트
+
+튀르키예어 철자, 손글씨, 젖은 표면 반사, 자연스러운 군중, 사실적인 인체를 점검하는 거리 장면 프롬프트.
+
+#### 프롬프트
+
+```text
+Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.
+
+Show a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.
+```
+
+<table><tr>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="비 오는 이스탄불 거리 텍스트 테스트"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="비 오는 이스탄불 거리 텍스트 테스트"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="비 오는 이스탄불 거리 텍스트 테스트"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="비 오는 이스탄불 거리 텍스트 테스트"></td>
+</tr></table>
+
+#### 출처 근거
+
+- **제작자:** [Ozan Sihay](https://x.com/ozansihay)
+- **공식 쇼케이스:** [Qwen Image 3.0](https://x.com/ozansihay/status/2080218385607008613)
+- **게시일:** 2026-07-23
+- **분류:** 사실적 표현과 소재 디테일
+- **참조 이미지 필요:** 아니요
+
+**[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
+
+---
+
+### 17. 빈티지 코케트 참조 인물 클로즈업
+
+정체성 보존, 사실적인 피부 질감, 올드 로즈 스타일링, 근접 편집 구도에 초점을 둔 참조 이미지 프롬프트.
+
+#### 프롬프트
+
+```text
+Use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and subtle natural asymmetry.
+
+Create a premium extreme close-up studio beauty portrait using a dreamy vintage coquette rendering style, translated into a richer old-rose editorial palette. Frame tightly from the upper shoulders upward. Use soft diffused key light, pearl highlights, muted rose makeup, delicate lace or satin styling, shallow depth of field, and refined film-grain texture. Keep the expression calm and natural, preserve believable eyes and hair detail, avoid over-smoothed skin, and make the result feel like a high-end magazine beauty cover rather than a plastic retouch. Square format, crisp detail.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5YtbNaYAAOIFV.jpg" width="100%" alt="빈티지 코케트 참조 인물 클로즈업"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5Yum6bAAAIApb.jpg" width="100%" alt="빈티지 코케트 참조 인물 클로즈업"></td>
+</tr></table>
+
+#### 출처 근거
+
+- **제작자:** [Rich · Atom Tan Studio](https://x.com/atomtanstudio)
+- **공식 쇼케이스:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
+- **게시일:** 2026-07-23
+- **분류:** 사실적 표현과 소재 디테일
+- **참조 이미지 필요:** 예
 
 **[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
 

@@ -531,5 +531,142 @@
       ]
     },
     "sort": 14
+  },
+  {
+    "id": 15,
+    "model": "Qwen Image 3.0",
+    "title": "Nested code editor and chat poster workflow",
+    "description": "A layered interface-composition prompt that tests readable UI text, spatial depth, and poster generation inside a chat workspace.",
+    "content": "Create a layered picture-in-picture interface scene with strong visual depth. The outer layer is a realistic VS Code programming workspace on a desktop monitor. Inside that workspace, show a Qwen-style chat application window where the user is sending the message: \"Create a hand-brewed coffee poster.\" The assistant reply contains a polished coffee poster, and the poster remains clearly visible inside the chat window.\n\nKeep every layer visually distinct: code editor chrome, chat sidebar, message bubbles, poster frame, toolbar buttons, timestamps, and small UI labels. Make the micro-text crisp enough to read, avoid distorted pseudo-letters, preserve realistic spacing, and use clean modern interface lighting. The coffee poster should feel like a premium specialty-cafe campaign with warm paper texture, elegant typography, roasted-bean details, and a clear headline. 16:9, high-resolution, sharp layout.",
+    "sourceLink": "https://x.com/bit_sister/status/2080577815376957798",
+    "sourcePublishedAt": "2026-07-24T08:56:21.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN-ydubbcAAPs_n.png",
+      "https://pbs.twimg.com/media/HN-yelfakAAjQN9.png"
+    ],
+    "author": {
+      "name": "比特小师妹｜KiKi",
+      "link": "https://x.com/bit_sister"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 15,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "x-community-output",
+      "tweet_id": "2080577815376957798",
+      "model_evidence": "qwen-image-3-0",
+      "collected_at": "2026-07-27",
+      "curation_note": "Source prompt normalized into an English production brief after media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_editorial_rewrite",
+      "retweetCount": 0,
+      "replyCount": 45,
+      "likeCount": 10,
+      "quoteCount": 1,
+      "viewCount": 1653,
+      "bookmarkCount": 1,
+      "case_id": "x-2080577815376957798"
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 104,
+          "title": "Photorealism & Material Detail",
+          "slug": "photorealism-and-material-detail"
+        }
+      ]
+    }
+  },
+  {
+    "id": 16,
+    "model": "Qwen Image 3.0",
+    "title": "Rainy Istanbul street text accuracy test",
+    "description": "A multilingual street-scene prompt for Turkish lettering, handwriting, wet-surface reflections, natural crowd detail, and photorealistic anatomy.",
+    "content": "Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.\n\nShow a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.",
+    "sourceLink": "https://x.com/ozansihay/status/2080218385607008613",
+    "sourcePublishedAt": "2026-07-23T09:08:06.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg",
+      "https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg",
+      "https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg",
+      "https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg"
+    ],
+    "author": {
+      "name": "Ozan Sihay",
+      "link": "https://x.com/ozansihay"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 16,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "x-community-output",
+      "tweet_id": "2080218385607008613",
+      "model_evidence": "qwen-image-3-0",
+      "collected_at": "2026-07-27",
+      "curation_note": "Source prompt normalized into an English production brief after media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_editorial_rewrite",
+      "retweetCount": 3,
+      "replyCount": 51,
+      "likeCount": 95,
+      "quoteCount": 0,
+      "viewCount": 38598,
+      "bookmarkCount": 76,
+      "case_id": "x-2080218385607008613"
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 104,
+          "title": "Photorealism & Material Detail",
+          "slug": "photorealism-and-material-detail"
+        }
+      ]
+    }
+  },
+  {
+    "id": 17,
+    "model": "Qwen Image 3.0",
+    "title": "Vintage coquette reference portrait close-up",
+    "description": "A reference-guided beauty portrait prompt focused on identity preservation, realistic skin texture, old-rose styling, and close editorial framing.",
+    "content": "Use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and subtle natural asymmetry.\n\nCreate a premium extreme close-up studio beauty portrait using a dreamy vintage coquette rendering style, translated into a richer old-rose editorial palette. Frame tightly from the upper shoulders upward. Use soft diffused key light, pearl highlights, muted rose makeup, delicate lace or satin styling, shallow depth of field, and refined film-grain texture. Keep the expression calm and natural, preserve believable eyes and hair detail, avoid over-smoothed skin, and make the result feel like a high-end magazine beauty cover rather than a plastic retouch. Square format, crisp detail.",
+    "sourceLink": "https://x.com/atomtanstudio/status/2080197723429711958",
+    "sourcePublishedAt": "2026-07-23T07:46:00.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN5YtbNaYAAOIFV.jpg",
+      "https://pbs.twimg.com/media/HN5Yum6bAAAIApb.jpg"
+    ],
+    "author": {
+      "name": "Rich · Atom Tan Studio",
+      "link": "https://x.com/atomtanstudio"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 17,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "x-community-output",
+      "tweet_id": "2080197723429711958",
+      "model_evidence": "qwen-image-3-0",
+      "collected_at": "2026-07-27",
+      "curation_note": "Source prompt normalized into an English production brief after media, attribution, duplicate, and editorial-value review.",
+      "prompt_source": "tweet_text_prompt_editorial_rewrite",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 0,
+      "quoteCount": 0,
+      "viewCount": 150,
+      "bookmarkCount": 0,
+      "case_id": "x-2080197723429711958"
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 104,
+          "title": "Photorealism & Material Detail",
+          "slug": "photorealism-and-material-detail"
+        }
+      ]
+    }
   }
 ]

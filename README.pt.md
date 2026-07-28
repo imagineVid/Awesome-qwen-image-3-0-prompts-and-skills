@@ -54,7 +54,7 @@ Qwen Image 3.0 é a terceira geração do modelo de geração e edição de imag
 
 ## Casos oficiais verificados
 
-| Estado da coleção | 14 casos verificados |
+| Estado da coleção | 17 casos verificados |
 |---|---:|
 | Última geração | 2026-07-21 |
 
@@ -474,6 +474,95 @@ Create a vertical cinematic underwater photograph of a fictional adult woman sus
 - **Publicado:** 2026-07-22
 - **Categoria:** Fotorrealismo e detalhes de materiais
 - **Exige imagens de referência:** Não
+
+**[Usar este prompt no ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
+
+---
+
+### 15. Editor de codigo aninhado e poster no chat
+
+Prompt de interface em camadas para testar texto de UI legivel, profundidade espacial e geracao de poster dentro de um chat.
+
+#### Prompt
+
+```text
+Create a layered picture-in-picture interface scene with strong visual depth. The outer layer is a realistic VS Code programming workspace on a desktop monitor. Inside that workspace, show a Qwen-style chat application window where the user is sending the message: "Create a hand-brewed coffee poster." The assistant reply contains a polished coffee poster, and the poster remains clearly visible inside the chat window.
+
+Keep every layer visually distinct: code editor chrome, chat sidebar, message bubbles, poster frame, toolbar buttons, timestamps, and small UI labels. Make the micro-text crisp enough to read, avoid distorted pseudo-letters, preserve realistic spacing, and use clean modern interface lighting. The coffee poster should feel like a premium specialty-cafe campaign with warm paper texture, elegant typography, roasted-bean details, and a clear headline. 16:9, high-resolution, sharp layout.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-ydubbcAAPs_n.png" width="100%" alt="Editor de codigo aninhado e poster no chat"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-yelfakAAjQN9.png" width="100%" alt="Editor de codigo aninhado e poster no chat"></td>
+</tr></table>
+
+#### Evidência da fonte
+
+- **Criador:** [比特小师妹｜KiKi](https://x.com/bit_sister)
+- **Demonstração oficial:** [Qwen Image 3.0](https://x.com/bit_sister/status/2080577815376957798)
+- **Publicado:** 2026-07-24
+- **Categoria:** Fotorrealismo e detalhes de materiais
+- **Exige imagens de referência:** Não
+
+**[Usar este prompt no ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
+
+---
+
+### 16. Teste de texto em rua chuvosa de Istambul
+
+Cena urbana multilingue para avaliar letras turcas, escrita manual, reflexos molhados, multidoes naturais e anatomia realista.
+
+#### Prompt
+
+```text
+Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.
+
+Show a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.
+```
+
+<table><tr>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="Teste de texto em rua chuvosa de Istambul"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="Teste de texto em rua chuvosa de Istambul"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="Teste de texto em rua chuvosa de Istambul"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="Teste de texto em rua chuvosa de Istambul"></td>
+</tr></table>
+
+#### Evidência da fonte
+
+- **Criador:** [Ozan Sihay](https://x.com/ozansihay)
+- **Demonstração oficial:** [Qwen Image 3.0](https://x.com/ozansihay/status/2080218385607008613)
+- **Publicado:** 2026-07-23
+- **Categoria:** Fotorrealismo e detalhes de materiais
+- **Exige imagens de referência:** Não
+
+**[Usar este prompt no ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
+
+---
+
+### 17. Retrato coquette vintage com referencia
+
+Prompt de retrato guiado por referencia focado em identidade, textura real de pele, estilo rosa antigo e enquadramento editorial fechado.
+
+#### Prompt
+
+```text
+Use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and subtle natural asymmetry.
+
+Create a premium extreme close-up studio beauty portrait using a dreamy vintage coquette rendering style, translated into a richer old-rose editorial palette. Frame tightly from the upper shoulders upward. Use soft diffused key light, pearl highlights, muted rose makeup, delicate lace or satin styling, shallow depth of field, and refined film-grain texture. Keep the expression calm and natural, preserve believable eyes and hair detail, avoid over-smoothed skin, and make the result feel like a high-end magazine beauty cover rather than a plastic retouch. Square format, crisp detail.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5YtbNaYAAOIFV.jpg" width="100%" alt="Retrato coquette vintage com referencia"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5Yum6bAAAIApb.jpg" width="100%" alt="Retrato coquette vintage com referencia"></td>
+</tr></table>
+
+#### Evidência da fonte
+
+- **Criador:** [Rich · Atom Tan Studio](https://x.com/atomtanstudio)
+- **Demonstração oficial:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
+- **Publicado:** 2026-07-23
+- **Categoria:** Fotorrealismo e detalhes de materiais
+- **Exige imagens de referência:** Sim
 
 **[Usar este prompt no ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
 

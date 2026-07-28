@@ -54,7 +54,7 @@ Qwen Image 3.0 は Qwen チームによる第3世代の画像生成・編集モ�
 
 ## 検証済み公式ショーケース
 
-| 収録状況 | 14 件の検証済み事例 |
+| 収録状況 | 17 件の検証済み事例 |
 |---|---:|
 | 最終生成日 | 2026-07-21 |
 
@@ -474,6 +474,95 @@ Create a vertical cinematic underwater photograph of a fictional adult woman sus
 - **公開日:** 2026-07-22
 - **カテゴリー:** 写実表現と素材ディテール
 - **参照画像が必要:** いいえ
+
+**[ImagineVid でこのプロンプトを使う](https://imaginevid.io/ja/ai-image-generator)**
+
+---
+
+### 15. 入れ子状コードエディターとチャットポスター
+
+読みやすい UI 文字、奥行きのある画面構成、チャット内ポスター生成を検証するレイヤー型プロンプト。
+
+#### プロンプト
+
+```text
+Create a layered picture-in-picture interface scene with strong visual depth. The outer layer is a realistic VS Code programming workspace on a desktop monitor. Inside that workspace, show a Qwen-style chat application window where the user is sending the message: "Create a hand-brewed coffee poster." The assistant reply contains a polished coffee poster, and the poster remains clearly visible inside the chat window.
+
+Keep every layer visually distinct: code editor chrome, chat sidebar, message bubbles, poster frame, toolbar buttons, timestamps, and small UI labels. Make the micro-text crisp enough to read, avoid distorted pseudo-letters, preserve realistic spacing, and use clean modern interface lighting. The coffee poster should feel like a premium specialty-cafe campaign with warm paper texture, elegant typography, roasted-bean details, and a clear headline. 16:9, high-resolution, sharp layout.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-ydubbcAAPs_n.png" width="100%" alt="入れ子状コードエディターとチャットポスター"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-yelfakAAjQN9.png" width="100%" alt="入れ子状コードエディターとチャットポスター"></td>
+</tr></table>
+
+#### 出典情報
+
+- **作成者:** [比特小师妹｜KiKi](https://x.com/bit_sister)
+- **公式ショーケース:** [Qwen Image 3.0](https://x.com/bit_sister/status/2080577815376957798)
+- **公開日:** 2026-07-24
+- **カテゴリー:** 写実表現と素材ディテール
+- **参照画像が必要:** いいえ
+
+**[ImagineVid でこのプロンプトを使う](https://imaginevid.io/ja/ai-image-generator)**
+
+---
+
+### 16. 雨のイスタンブール街頭テキストテスト
+
+トルコ語表記、手書き文字、濡れた路面反射、自然な群衆、写実的な人体を検証する街景プロンプト。
+
+#### プロンプト
+
+```text
+Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.
+
+Show a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.
+```
+
+<table><tr>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="雨のイスタンブール街頭テキストテスト"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="雨のイスタンブール街頭テキストテスト"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="雨のイスタンブール街頭テキストテスト"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="雨のイスタンブール街頭テキストテスト"></td>
+</tr></table>
+
+#### 出典情報
+
+- **作成者:** [Ozan Sihay](https://x.com/ozansihay)
+- **公式ショーケース:** [Qwen Image 3.0](https://x.com/ozansihay/status/2080218385607008613)
+- **公開日:** 2026-07-23
+- **カテゴリー:** 写実表現と素材ディテール
+- **参照画像が必要:** いいえ
+
+**[ImagineVid でこのプロンプトを使う](https://imaginevid.io/ja/ai-image-generator)**
+
+---
+
+### 17. ヴィンテージ coquette 参照ポートレート
+
+本人らしさ、自然な肌質、オールドローズ調のスタイリング、近接編集フレーミングに集中した参照画像プロンプト。
+
+#### プロンプト
+
+```text
+Use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and subtle natural asymmetry.
+
+Create a premium extreme close-up studio beauty portrait using a dreamy vintage coquette rendering style, translated into a richer old-rose editorial palette. Frame tightly from the upper shoulders upward. Use soft diffused key light, pearl highlights, muted rose makeup, delicate lace or satin styling, shallow depth of field, and refined film-grain texture. Keep the expression calm and natural, preserve believable eyes and hair detail, avoid over-smoothed skin, and make the result feel like a high-end magazine beauty cover rather than a plastic retouch. Square format, crisp detail.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5YtbNaYAAOIFV.jpg" width="100%" alt="ヴィンテージ coquette 参照ポートレート"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5Yum6bAAAIApb.jpg" width="100%" alt="ヴィンテージ coquette 参照ポートレート"></td>
+</tr></table>
+
+#### 出典情報
+
+- **作成者:** [Rich · Atom Tan Studio](https://x.com/atomtanstudio)
+- **公式ショーケース:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
+- **公開日:** 2026-07-23
+- **カテゴリー:** 写実表現と素材ディテール
+- **参照画像が必要:** はい
 
 **[ImagineVid でこのプロンプトを使う](https://imaginevid.io/ja/ai-image-generator)**
 

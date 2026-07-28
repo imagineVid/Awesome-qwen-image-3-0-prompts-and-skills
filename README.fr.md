@@ -54,7 +54,7 @@ Qwen Image 3.0 est la troisième génération du modèle de génération et d'é
 
 ## Cas officiels vérifiés
 
-| État de la collection | 14 cas vérifiés |
+| État de la collection | 17 cas vérifiés |
 |---|---:|
 | Dernière génération | 2026-07-21 |
 
@@ -474,6 +474,95 @@ Create a vertical cinematic underwater photograph of a fictional adult woman sus
 - **Publié le:** 2026-07-22
 - **Catégorie:** Photoréalisme et détails de matière
 - **Images de référence requises:** Non
+
+**[Utiliser ce prompt sur ImagineVid](https://imaginevid.io/fr/ai-image-generator)**
+
+---
+
+### 15. Editeur de code imbrique et affiche dans le chat
+
+Prompt d interface en couches pour tester le texte UI lisible, la profondeur spatiale et la creation d affiche dans un chat.
+
+#### Prompt
+
+```text
+Create a layered picture-in-picture interface scene with strong visual depth. The outer layer is a realistic VS Code programming workspace on a desktop monitor. Inside that workspace, show a Qwen-style chat application window where the user is sending the message: "Create a hand-brewed coffee poster." The assistant reply contains a polished coffee poster, and the poster remains clearly visible inside the chat window.
+
+Keep every layer visually distinct: code editor chrome, chat sidebar, message bubbles, poster frame, toolbar buttons, timestamps, and small UI labels. Make the micro-text crisp enough to read, avoid distorted pseudo-letters, preserve realistic spacing, and use clean modern interface lighting. The coffee poster should feel like a premium specialty-cafe campaign with warm paper texture, elegant typography, roasted-bean details, and a clear headline. 16:9, high-resolution, sharp layout.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-ydubbcAAPs_n.png" width="100%" alt="Editeur de code imbrique et affiche dans le chat"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-yelfakAAjQN9.png" width="100%" alt="Editeur de code imbrique et affiche dans le chat"></td>
+</tr></table>
+
+#### Preuve de la source
+
+- **Créateur:** [比特小师妹｜KiKi](https://x.com/bit_sister)
+- **Démonstration officielle:** [Qwen Image 3.0](https://x.com/bit_sister/status/2080577815376957798)
+- **Publié le:** 2026-07-24
+- **Catégorie:** Photoréalisme et détails de matière
+- **Images de référence requises:** Non
+
+**[Utiliser ce prompt sur ImagineVid](https://imaginevid.io/fr/ai-image-generator)**
+
+---
+
+### 16. Test de texte dans une rue pluvieuse d Istanbul
+
+Scene urbaine multilingue pour verifier les caracteres turcs, l ecriture manuscrite, les reflets mouilles, la foule naturelle et l anatomie realiste.
+
+#### Prompt
+
+```text
+Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.
+
+Show a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.
+```
+
+<table><tr>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="Test de texte dans une rue pluvieuse d Istanbul"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="Test de texte dans une rue pluvieuse d Istanbul"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="Test de texte dans une rue pluvieuse d Istanbul"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="Test de texte dans une rue pluvieuse d Istanbul"></td>
+</tr></table>
+
+#### Preuve de la source
+
+- **Créateur:** [Ozan Sihay](https://x.com/ozansihay)
+- **Démonstration officielle:** [Qwen Image 3.0](https://x.com/ozansihay/status/2080218385607008613)
+- **Publié le:** 2026-07-23
+- **Catégorie:** Photoréalisme et détails de matière
+- **Images de référence requises:** Non
+
+**[Utiliser ce prompt sur ImagineVid](https://imaginevid.io/fr/ai-image-generator)**
+
+---
+
+### 17. Portrait coquette vintage avec reference
+
+Prompt de portrait guide par reference, centre sur l identite, la texture de peau realiste, le style vieux rose et le cadrage editorial serre.
+
+#### Prompt
+
+```text
+Use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and subtle natural asymmetry.
+
+Create a premium extreme close-up studio beauty portrait using a dreamy vintage coquette rendering style, translated into a richer old-rose editorial palette. Frame tightly from the upper shoulders upward. Use soft diffused key light, pearl highlights, muted rose makeup, delicate lace or satin styling, shallow depth of field, and refined film-grain texture. Keep the expression calm and natural, preserve believable eyes and hair detail, avoid over-smoothed skin, and make the result feel like a high-end magazine beauty cover rather than a plastic retouch. Square format, crisp detail.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5YtbNaYAAOIFV.jpg" width="100%" alt="Portrait coquette vintage avec reference"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5Yum6bAAAIApb.jpg" width="100%" alt="Portrait coquette vintage avec reference"></td>
+</tr></table>
+
+#### Preuve de la source
+
+- **Créateur:** [Rich · Atom Tan Studio](https://x.com/atomtanstudio)
+- **Démonstration officielle:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
+- **Publié le:** 2026-07-23
+- **Catégorie:** Photoréalisme et détails de matière
+- **Images de référence requises:** Oui
 
 **[Utiliser ce prompt sur ImagineVid](https://imaginevid.io/fr/ai-image-generator)**
 

@@ -54,7 +54,7 @@ Qwen Image 3.0 هو الجيل الثالث من نموذج إنشاء الصو�
 
 ## حالات العرض الرسمية الموثقة
 
-| حالة المجموعة | 14 حالة موثقة |
+| حالة المجموعة | 17 حالة موثقة |
 |---|---:|
 | آخر إنشاء | 2026-07-21 |
 
@@ -474,6 +474,95 @@ Create a vertical cinematic underwater photograph of a fictional adult woman sus
 - **تاريخ النشر:** 2026-07-22
 - **الفئة:** الواقعية الفوتوغرافية وتفاصيل المواد
 - **تتطلب صورًا مرجعية:** لا
+
+**[استخدم هذه المطالبة في ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
+
+---
+
+### 15. محرر كود متداخل مع ملصق داخل الدردشة
+
+وصف متعدد الطبقات لاختبار وضوح نصوص الواجهة وعمق المشهد وتوليد ملصق داخل نافذة دردشة.
+
+#### المطالبة
+
+```text
+Create a layered picture-in-picture interface scene with strong visual depth. The outer layer is a realistic VS Code programming workspace on a desktop monitor. Inside that workspace, show a Qwen-style chat application window where the user is sending the message: "Create a hand-brewed coffee poster." The assistant reply contains a polished coffee poster, and the poster remains clearly visible inside the chat window.
+
+Keep every layer visually distinct: code editor chrome, chat sidebar, message bubbles, poster frame, toolbar buttons, timestamps, and small UI labels. Make the micro-text crisp enough to read, avoid distorted pseudo-letters, preserve realistic spacing, and use clean modern interface lighting. The coffee poster should feel like a premium specialty-cafe campaign with warm paper texture, elegant typography, roasted-bean details, and a clear headline. 16:9, high-resolution, sharp layout.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-ydubbcAAPs_n.png" width="100%" alt="محرر كود متداخل مع ملصق داخل الدردشة"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-yelfakAAjQN9.png" width="100%" alt="محرر كود متداخل مع ملصق داخل الدردشة"></td>
+</tr></table>
+
+#### دليل المصدر
+
+- **المنشئ:** [比特小师妹｜KiKi](https://x.com/bit_sister)
+- **العرض الرسمي:** [Qwen Image 3.0](https://x.com/bit_sister/status/2080577815376957798)
+- **تاريخ النشر:** 2026-07-24
+- **الفئة:** الواقعية الفوتوغرافية وتفاصيل المواد
+- **تتطلب صورًا مرجعية:** لا
+
+**[استخدم هذه المطالبة في ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
+
+---
+
+### 16. اختبار نص في شارع ممطر في اسطنبول
+
+مشهد شارع متعدد اللغات لاختبار الحروف التركية والكتابة اليدوية وانعكاسات المطر والحشود الطبيعية والتشريح الواقعي.
+
+#### المطالبة
+
+```text
+Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.
+
+Show a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.
+```
+
+<table><tr>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="اختبار نص في شارع ممطر في اسطنبول"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="اختبار نص في شارع ممطر في اسطنبول"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="اختبار نص في شارع ممطر في اسطنبول"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="اختبار نص في شارع ممطر في اسطنبول"></td>
+</tr></table>
+
+#### دليل المصدر
+
+- **المنشئ:** [Ozan Sihay](https://x.com/ozansihay)
+- **العرض الرسمي:** [Qwen Image 3.0](https://x.com/ozansihay/status/2080218385607008613)
+- **تاريخ النشر:** 2026-07-23
+- **الفئة:** الواقعية الفوتوغرافية وتفاصيل المواد
+- **تتطلب صورًا مرجعية:** لا
+
+**[استخدم هذه المطالبة في ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
+
+---
+
+### 17. بورتريه coquette عتيق بالاعتماد على مرجع
+
+وصف بورتريه مرجعي يركز على حفظ الهوية وملمس الجلد الواقعي ولوحة وردية قديمة وتأطير تحريري قريب.
+
+#### المطالبة
+
+```text
+Use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and subtle natural asymmetry.
+
+Create a premium extreme close-up studio beauty portrait using a dreamy vintage coquette rendering style, translated into a richer old-rose editorial palette. Frame tightly from the upper shoulders upward. Use soft diffused key light, pearl highlights, muted rose makeup, delicate lace or satin styling, shallow depth of field, and refined film-grain texture. Keep the expression calm and natural, preserve believable eyes and hair detail, avoid over-smoothed skin, and make the result feel like a high-end magazine beauty cover rather than a plastic retouch. Square format, crisp detail.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5YtbNaYAAOIFV.jpg" width="100%" alt="بورتريه coquette عتيق بالاعتماد على مرجع"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5Yum6bAAAIApb.jpg" width="100%" alt="بورتريه coquette عتيق بالاعتماد على مرجع"></td>
+</tr></table>
+
+#### دليل المصدر
+
+- **المنشئ:** [Rich · Atom Tan Studio](https://x.com/atomtanstudio)
+- **العرض الرسمي:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
+- **تاريخ النشر:** 2026-07-23
+- **الفئة:** الواقعية الفوتوغرافية وتفاصيل المواد
+- **تتطلب صورًا مرجعية:** نعم
 
 **[استخدم هذه المطالبة في ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
 

@@ -54,7 +54,7 @@ Qwen Image 3.0 — третье поколение модели генераци
 
 ## Проверенные официальные примеры
 
-| Состояние коллекции | 14 проверенных примеров |
+| Состояние коллекции | 17 проверенных примеров |
 |---|---:|
 | Последнее обновление | 2026-07-21 |
 
@@ -474,6 +474,95 @@ Create a vertical cinematic underwater photograph of a fictional adult woman sus
 - **Опубликовано:** 2026-07-22
 - **Категория:** Фотореализм и детали материалов
 - **Нужны референсные изображения:** Нет
+
+**[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
+
+---
+
+### 15. Вложенный редактор кода и постер в чате
+
+Многослойный UI-промпт для проверки читаемого текста интерфейса, глубины кадра и генерации постера внутри чата.
+
+#### Промпт
+
+```text
+Create a layered picture-in-picture interface scene with strong visual depth. The outer layer is a realistic VS Code programming workspace on a desktop monitor. Inside that workspace, show a Qwen-style chat application window where the user is sending the message: "Create a hand-brewed coffee poster." The assistant reply contains a polished coffee poster, and the poster remains clearly visible inside the chat window.
+
+Keep every layer visually distinct: code editor chrome, chat sidebar, message bubbles, poster frame, toolbar buttons, timestamps, and small UI labels. Make the micro-text crisp enough to read, avoid distorted pseudo-letters, preserve realistic spacing, and use clean modern interface lighting. The coffee poster should feel like a premium specialty-cafe campaign with warm paper texture, elegant typography, roasted-bean details, and a clear headline. 16:9, high-resolution, sharp layout.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-ydubbcAAPs_n.png" width="100%" alt="Вложенный редактор кода и постер в чате"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN-yelfakAAjQN9.png" width="100%" alt="Вложенный редактор кода и постер в чате"></td>
+</tr></table>
+
+#### Подтверждение источника
+
+- **Автор:** [比特小师妹｜KiKi](https://x.com/bit_sister)
+- **Официальная демонстрация:** [Qwen Image 3.0](https://x.com/bit_sister/status/2080577815376957798)
+- **Опубликовано:** 2026-07-24
+- **Категория:** Фотореализм и детали материалов
+- **Нужны референсные изображения:** Нет
+
+**[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
+
+---
+
+### 16. Дождливая улица Стамбула для проверки текста
+
+Многоязычная уличная сцена для турецких букв, рукописного текста, мокрых отражений, естественной толпы и реалистичной анатомии.
+
+#### Промпт
+
+```text
+Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.
+
+Show a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.
+```
+
+<table><tr>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="Дождливая улица Стамбула для проверки текста"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="Дождливая улица Стамбула для проверки текста"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="Дождливая улица Стамбула для проверки текста"></td>
+<td width="25%"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="Дождливая улица Стамбула для проверки текста"></td>
+</tr></table>
+
+#### Подтверждение источника
+
+- **Автор:** [Ozan Sihay](https://x.com/ozansihay)
+- **Официальная демонстрация:** [Qwen Image 3.0](https://x.com/ozansihay/status/2080218385607008613)
+- **Опубликовано:** 2026-07-23
+- **Категория:** Фотореализм и детали материалов
+- **Нужны референсные изображения:** Нет
+
+**[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
+
+---
+
+### 17. Винтажный coquette-портрет по референсу
+
+Промпт портрета по референсу с упором на сохранение идентичности, реалистичную кожу, старо-розовый стиль и крупный журнальный кадр.
+
+#### Промпт
+
+```text
+Use the attached image as the main facial reference while preserving recognizable identity, natural facial proportions, facial harmony, realistic skin texture, visible pores, and subtle natural asymmetry.
+
+Create a premium extreme close-up studio beauty portrait using a dreamy vintage coquette rendering style, translated into a richer old-rose editorial palette. Frame tightly from the upper shoulders upward. Use soft diffused key light, pearl highlights, muted rose makeup, delicate lace or satin styling, shallow depth of field, and refined film-grain texture. Keep the expression calm and natural, preserve believable eyes and hair detail, avoid over-smoothed skin, and make the result feel like a high-end magazine beauty cover rather than a plastic retouch. Square format, crisp detail.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5YtbNaYAAOIFV.jpg" width="100%" alt="Винтажный coquette-портрет по референсу"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN5Yum6bAAAIApb.jpg" width="100%" alt="Винтажный coquette-портрет по референсу"></td>
+</tr></table>
+
+#### Подтверждение источника
+
+- **Автор:** [Rich · Atom Tan Studio](https://x.com/atomtanstudio)
+- **Официальная демонстрация:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
+- **Опубликовано:** 2026-07-23
+- **Категория:** Фотореализм и детали материалов
+- **Нужны референсные изображения:** Да
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
 
