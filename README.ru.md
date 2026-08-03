@@ -508,37 +508,6 @@ Keep every layer visually distinct: code editor chrome, chat sidebar, message bu
 
 ---
 
-### 16. Дождливая улица Стамбула для проверки текста
-
-Многоязычная уличная сцена для турецких букв, рукописного текста, мокрых отражений, естественной толпы и реалистичной анатомии.
-
-#### Промпт
-
-```text
-Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.
-
-Show a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.
-```
-
-<table><tr>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="Дождливая улица Стамбула для проверки текста"></td>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="Дождливая улица Стамбула для проверки текста"></td>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="Дождливая улица Стамбула для проверки текста"></td>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="Дождливая улица Стамбула для проверки текста"></td>
-</tr></table>
-
-#### Подтверждение источника
-
-- **Автор:** [Ozan Sihay](https://x.com/ozansihay)
-- **Официальная демонстрация:** [Qwen Image 3.0](https://x.com/ozansihay/status/2080218385607008613)
-- **Опубликовано:** 2026-07-23
-- **Категория:** Фотореализм и детали материалов
-- **Нужны референсные изображения:** Нет
-
-**[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
-
----
-
 ### 17. Винтажный coquette-портрет по референсу
 
 Промпт портрета по референсу с упором на сохранение идентичности, реалистичную кожу, старо-розовый стиль и крупный журнальный кадр.
@@ -590,6 +559,36 @@ Candid photography. Use facial identity, facial geometry and make-up but not ori
 - **Опубликовано:** 2026-07-22
 - **Категория:** Редактирование и реставрация по референсу
 - **Нужны референсные изображения:** Да
+
+**[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
+
+---
+
+### 19. Портрет в стиле эпохи Сун с тонкой тушью и фотографическим светом
+
+Портрет Qwen Image 3 с подтверждённым источником: композиция в духе Сун, читаемая каллиграфия, фактура шёлка и сдержанная редакционная палитра.
+
+#### Промпт
+
+```text
+Create a vertical close-up portrait in a refined Song-dynasty aesthetic, combining meticulous silk-based painting with photographic light. Show a young East Asian woman from the chest up, turned slightly and occupying the right two-thirds of the frame, with generous breathing room on the left. Use a very pale moon-white silk background with fine woven texture and a faint blue-gray wash. Let a delicate ink-painted plum branch enter from the upper left, softly out of focus. A gentle beam of daylight from the upper left should fall across her cheek, nose bridge, and collarbone like morning light filtered through Song-era paper windows, with a fine rim of light along her hair.
+
+Give her luminous pale skin with visible fine texture and tiny vellus hairs, lightly brushed distant-mountain eyebrows, long slightly lifted eyes with a trace of pale rouge at the outer corners, long lashes, a calm gaze directed beyond the frame, a refined nose, full delicate lips with muted sandalwood tint, a clear jawline, long neck, and subtly visible collarbones. Her expression sits between composure and quiet pride, never coquettish or empty. Style her hair in a low, loose coiled bun with a few wind-lifted strands, black with a cool blue sheen. Add one plain silver hairpin, a small pearl flower, one pearl earring, and a tiny pearl forehead ornament; no heavy headdress.
+
+    Dress her in a moon-white bandeau and a pale aqua-blue straight-collar robe with a deep blue-green edge and extremely realistic woven texture. Let one apricot blossom fall onto her shoulder and two or three petals hover softly beside her, suggesting wind. In the left negative space, render the vertical Chinese calligraphic inscription 淡妆浓抹总相宜 in thin brown-gold regular script with a small vermilion seal. Keep the palette low-saturation moon white, aqua, and light sandalwood; lips and seal are the only warm accents. Use coherent soft Rembrandt-like light, very shallow depth of field, sharp eyes, ultra-detailed skin and fabric, 8K detail, and a quiet, contemporary portrait-photography breath within Song painting stillness.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN1YAvkagAAoW3N.jpg" width="100%" alt="Портрет в стиле эпохи Сун с тонкой тушью и фотографическим светом"></td>
+</tr></table>
+
+#### Подтверждение источника
+
+- **Автор:** [岚叔](https://x.com/LufzzLiz)
+- **Официальная демонстрация:** [Qwen Image 3.0](https://x.com/LufzzLiz/status/2079925505634234856)
+- **Опубликовано:** 2026-07-22
+- **Категория:** Редактирование и реставрация по референсу
+- **Нужны референсные изображения:** Нет
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
 

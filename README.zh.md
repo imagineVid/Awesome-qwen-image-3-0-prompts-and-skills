@@ -508,37 +508,6 @@ Keep every layer visually distinct: code editor chrome, chat sidebar, message bu
 
 ---
 
-### 16. 雨中伊斯坦布尔街景文字测试
-
-面向土耳其语字形、手写体、湿地反光、自然人群细节与写实人体结构的多语言街景提示词。
-
-#### 提示词
-
-```text
-Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.
-
-Show a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.
-```
-
-<table><tr>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="雨中伊斯坦布尔街景文字测试"></td>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="雨中伊斯坦布尔街景文字测试"></td>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="雨中伊斯坦布尔街景文字测试"></td>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="雨中伊斯坦布尔街景文字测试"></td>
-</tr></table>
-
-#### 来源证据
-
-- **创作者:** [Ozan Sihay](https://x.com/ozansihay)
-- **官方展示:** [Qwen Image 3.0](https://x.com/ozansihay/status/2080218385607008613)
-- **发布时间:** 2026-07-23
-- **分类:** 写实摄影与材质细节
-- **需要参考图:** 否
-
-**[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
-
----
-
 ### 17. 复古 coquette 参考人像特写
 
 聚焦身份保留、真实皮肤纹理、旧玫瑰色造型与近景编辑构图的参考图人像提示词。
@@ -590,6 +559,36 @@ Candid photography. Use facial identity, facial geometry and make-up but not ori
 - **发布时间:** 2026-07-22
 - **分类:** 参考图编辑与修复
 - **需要参考图:** 是
+
+**[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
+### 19. 细腻水墨与摄影光影融合的宋式肖像
+
+融合宋式构图、清晰题字、绢本质感和克制编辑色彩的来源明确 Qwen Image 3 肖像。
+
+#### 提示词
+
+```text
+Create a vertical close-up portrait in a refined Song-dynasty aesthetic, combining meticulous silk-based painting with photographic light. Show a young East Asian woman from the chest up, turned slightly and occupying the right two-thirds of the frame, with generous breathing room on the left. Use a very pale moon-white silk background with fine woven texture and a faint blue-gray wash. Let a delicate ink-painted plum branch enter from the upper left, softly out of focus. A gentle beam of daylight from the upper left should fall across her cheek, nose bridge, and collarbone like morning light filtered through Song-era paper windows, with a fine rim of light along her hair.
+
+Give her luminous pale skin with visible fine texture and tiny vellus hairs, lightly brushed distant-mountain eyebrows, long slightly lifted eyes with a trace of pale rouge at the outer corners, long lashes, a calm gaze directed beyond the frame, a refined nose, full delicate lips with muted sandalwood tint, a clear jawline, long neck, and subtly visible collarbones. Her expression sits between composure and quiet pride, never coquettish or empty. Style her hair in a low, loose coiled bun with a few wind-lifted strands, black with a cool blue sheen. Add one plain silver hairpin, a small pearl flower, one pearl earring, and a tiny pearl forehead ornament; no heavy headdress.
+
+    Dress her in a moon-white bandeau and a pale aqua-blue straight-collar robe with a deep blue-green edge and extremely realistic woven texture. Let one apricot blossom fall onto her shoulder and two or three petals hover softly beside her, suggesting wind. In the left negative space, render the vertical Chinese calligraphic inscription 淡妆浓抹总相宜 in thin brown-gold regular script with a small vermilion seal. Keep the palette low-saturation moon white, aqua, and light sandalwood; lips and seal are the only warm accents. Use coherent soft Rembrandt-like light, very shallow depth of field, sharp eyes, ultra-detailed skin and fabric, 8K detail, and a quiet, contemporary portrait-photography breath within Song painting stillness.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN1YAvkagAAoW3N.jpg" width="100%" alt="细腻水墨与摄影光影融合的宋式肖像"></td>
+</tr></table>
+
+#### 来源证据
+
+- **创作者:** [岚叔](https://x.com/LufzzLiz)
+- **官方展示:** [Qwen Image 3.0](https://x.com/LufzzLiz/status/2079925505634234856)
+- **发布时间:** 2026-07-22
+- **分类:** 参考图编辑与修复
+- **需要参考图:** 否
 
 **[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
 

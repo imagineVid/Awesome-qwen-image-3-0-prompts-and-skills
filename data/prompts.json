@@ -578,53 +578,6 @@
     }
   },
   {
-    "id": 16,
-    "model": "Qwen Image 3.0",
-    "title": "Rainy Istanbul street text accuracy test",
-    "description": "A multilingual street-scene prompt for Turkish lettering, handwriting, wet-surface reflections, natural crowd detail, and photorealistic anatomy.",
-    "content": "Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.\n\nShow a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.",
-    "sourceLink": "https://x.com/ozansihay/status/2080218385607008613",
-    "sourcePublishedAt": "2026-07-23T09:08:06.000Z",
-    "sourceMedia": [
-      "https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg",
-      "https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg",
-      "https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg",
-      "https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg"
-    ],
-    "author": {
-      "name": "Ozan Sihay",
-      "link": "https://x.com/ozansihay"
-    },
-    "language": "en",
-    "featured": false,
-    "sort": 16,
-    "needReferenceImages": false,
-    "sourceMeta": {
-      "source": "x-community-output",
-      "tweet_id": "2080218385607008613",
-      "model_evidence": "qwen-image-3-0",
-      "collected_at": "2026-07-27",
-      "curation_note": "Source prompt normalized into an English production brief after media, attribution, duplicate, and editorial-value review.",
-      "prompt_source": "tweet_text_prompt_editorial_rewrite",
-      "retweetCount": 3,
-      "replyCount": 51,
-      "likeCount": 95,
-      "quoteCount": 0,
-      "viewCount": 38598,
-      "bookmarkCount": 76,
-      "case_id": "x-2080218385607008613"
-    },
-    "imageCategories": {
-      "workflows": [
-        {
-          "id": 104,
-          "title": "Photorealism & Material Detail",
-          "slug": "photorealism-and-material-detail"
-        }
-      ]
-    }
-  },
-  {
     "id": 17,
     "model": "Qwen Image 3.0",
     "title": "Vintage coquette reference portrait close-up",
@@ -702,6 +655,50 @@
       "viewCount": 353,
       "bookmarkCount": 0,
       "case_id": "x-2079940712322199938"
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 105,
+          "title": "Reference Editing & Restoration",
+          "slug": "reference-editing-and-restoration"
+        }
+      ]
+    }
+  },
+  {
+    "id": 19,
+    "model": "Qwen Image 3.0",
+    "title": "Song-style portrait with refined ink-and-photography light",
+    "description": "A source-backed Qwen Image 3 portrait that combines Song-inspired composition, readable calligraphy, silk texture, and restrained editorial color.",
+    "content": "Create a vertical close-up portrait in a refined Song-dynasty aesthetic, combining meticulous silk-based painting with photographic light. Show a young East Asian woman from the chest up, turned slightly and occupying the right two-thirds of the frame, with generous breathing room on the left. Use a very pale moon-white silk background with fine woven texture and a faint blue-gray wash. Let a delicate ink-painted plum branch enter from the upper left, softly out of focus. A gentle beam of daylight from the upper left should fall across her cheek, nose bridge, and collarbone like morning light filtered through Song-era paper windows, with a fine rim of light along her hair.\n\nGive her luminous pale skin with visible fine texture and tiny vellus hairs, lightly brushed distant-mountain eyebrows, long slightly lifted eyes with a trace of pale rouge at the outer corners, long lashes, a calm gaze directed beyond the frame, a refined nose, full delicate lips with muted sandalwood tint, a clear jawline, long neck, and subtly visible collarbones. Her expression sits between composure and quiet pride, never coquettish or empty. Style her hair in a low, loose coiled bun with a few wind-lifted strands, black with a cool blue sheen. Add one plain silver hairpin, a small pearl flower, one pearl earring, and a tiny pearl forehead ornament; no heavy headdress.\n\n    Dress her in a moon-white bandeau and a pale aqua-blue straight-collar robe with a deep blue-green edge and extremely realistic woven texture. Let one apricot blossom fall onto her shoulder and two or three petals hover softly beside her, suggesting wind. In the left negative space, render the vertical Chinese calligraphic inscription 淡妆浓抹总相宜 in thin brown-gold regular script with a small vermilion seal. Keep the palette low-saturation moon white, aqua, and light sandalwood; lips and seal are the only warm accents. Use coherent soft Rembrandt-like light, very shallow depth of field, sharp eyes, ultra-detailed skin and fabric, 8K detail, and a quiet, contemporary portrait-photography breath within Song painting stillness.",
+    "sourceLink": "https://x.com/LufzzLiz/status/2079925505634234856",
+    "sourcePublishedAt": "2026-07-22T13:44:18.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN1YAvkagAAoW3N.jpg"
+    ],
+    "author": {
+      "name": "岚叔",
+      "link": "https://x.com/LufzzLiz"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 19,
+    "needReferenceImages": false,
+    "sourceMeta": {
+      "source": "x-community-output",
+      "tweet_id": "2079925505634234856",
+      "prompt_source": "tweet_text_prompt_translated_from_zh",
+      "model_evidence": "qwen-image-3.0",
+      "collected_at": "2026-08-03",
+      "retweetCount": 1,
+      "replyCount": 11,
+      "likeCount": 25,
+      "quoteCount": 0,
+      "viewCount": 11666,
+      "bookmarkCount": 24,
+      "original_language": "zh",
+      "case_id": "x-2079925505634234856"
     },
     "imageCategories": {
       "workflows": [

@@ -60,10 +60,6 @@
       "title": "嵌套代码编辑器与聊天海报流程",
       "description": "用于检验可读界面文字、画面纵深与聊天工作区内海报生成能力的分层 UI 构图提示词。"
     },
-    "16": {
-      "title": "雨中伊斯坦布尔街景文字测试",
-      "description": "面向土耳其语字形、手写体、湿地反光、自然人群细节与写实人体结构的多语言街景提示词。"
-    },
     "17": {
       "title": "复古 coquette 参考人像特写",
       "description": "聚焦身份保留、真实皮肤纹理、旧玫瑰色造型与近景编辑构图的参考图人像提示词。"
@@ -71,6 +67,10 @@
     "18": {
       "title": "叛逆摇滚明星身份编辑",
       "description": "以可复用指令和可核验结果媒体测试“叛逆摇滚明星身份编辑”的来源明确案例。"
+    },
+    "19": {
+      "title": "细腻水墨与摄影光影融合的宋式肖像",
+      "description": "融合宋式构图、清晰题字、绢本质感和克制编辑色彩的来源明确 Qwen Image 3 肖像。"
     }
   },
   "ja": {
@@ -134,10 +134,6 @@
       "title": "入れ子状コードエディターとチャットポスター",
       "description": "読みやすい UI 文字、奥行きのある画面構成、チャット内ポスター生成を検証するレイヤー型プロンプト。"
     },
-    "16": {
-      "title": "雨のイスタンブール街頭テキストテスト",
-      "description": "トルコ語表記、手書き文字、濡れた路面反射、自然な群衆、写実的な人体を検証する街景プロンプト。"
-    },
     "17": {
       "title": "ヴィンテージ coquette 参照ポートレート",
       "description": "本人らしさ、自然な肌質、オールドローズ調のスタイリング、近接編集フレーミングに集中した参照画像プロンプト。"
@@ -145,6 +141,10 @@
     "18": {
       "title": "反抗的なロックスターへのアイデンティティ編集",
       "description": "「反抗的なロックスターへのアイデンティティ編集」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。"
+    },
+    "19": {
+      "title": "洗練された水墨と写真光で描く宋風ポートレート",
+      "description": "宋代に着想を得た構図、読みやすい書、絹の質感、抑制した編集色を組み合わせる出典付きQwen Image 3ポートレート。"
     }
   },
   "ko": {
@@ -208,10 +208,6 @@
       "title": "중첩 코드 편집기와 채팅 포스터 워크플로",
       "description": "읽기 쉬운 UI 텍스트, 공간 깊이, 채팅 작업공간 안의 포스터 생성을 검증하는 레이어형 프롬프트."
     },
-    "16": {
-      "title": "비 오는 이스탄불 거리 텍스트 테스트",
-      "description": "튀르키예어 철자, 손글씨, 젖은 표면 반사, 자연스러운 군중, 사실적인 인체를 점검하는 거리 장면 프롬프트."
-    },
     "17": {
       "title": "빈티지 코케트 참조 인물 클로즈업",
       "description": "정체성 보존, 사실적인 피부 질감, 올드 로즈 스타일링, 근접 편집 구도에 초점을 둔 참조 이미지 프롬프트."
@@ -219,6 +215,10 @@
     "18": {
       "title": "반항적인 록스타 아이덴티티 편집",
       "description": "검증 가능한 결과 미디어와 재사용 가능한 지침으로 '반항적인 록스타 아이덴티티 편집'을 테스트하는 출처 기반 사례입니다."
+    },
+    "19": {
+      "title": "정제된 수묵과 사진 조명으로 표현한 송대풍 초상",
+      "description": "송대에서 영감을 받은 구도, 읽기 쉬운 서예, 비단 질감, 절제된 에디토리얼 컬러를 결합한 출처 기반 Qwen Image 3 포트레이트입니다."
     }
   },
   "es": {
@@ -282,10 +282,6 @@
       "title": "Editor de código anidado y cartel en chat",
       "description": "Prompt de interfaz por capas para probar texto UI legible, profundidad espacial y generación de un cartel dentro de un chat."
     },
-    "16": {
-      "title": "Prueba de texto en una calle lluviosa de Estambul",
-      "description": "Escena urbana multilingüe para evaluar letras turcas, escritura manual, reflejos de lluvia, multitudes naturales y anatomía realista."
-    },
     "17": {
       "title": "Retrato coquette vintage con referencia",
       "description": "Prompt de retrato con referencia centrado en preservar identidad, textura real de piel, estilo rosa antiguo y encuadre editorial cerrado."
@@ -293,6 +289,10 @@
     "18": {
       "title": "Edición de identidad de una estrella de rock rebelde",
       "description": "Un caso respaldado por fuentes que explora «Edición de identidad de una estrella de rock rebelde», con instrucciones reutilizables y medios de resultado verificables."
+    },
+    "19": {
+      "title": "Retrato de inspiración Song con tinta refinada y luz fotográfica",
+      "description": "Un retrato de Qwen Image 3 basado en una fuente que combina composición inspirada en la dinastía Song, caligrafía legible, textura de seda y color editorial sobrio."
     }
   },
   "de": {
@@ -356,10 +356,6 @@
       "title": "Verschachtelter Code-Editor mit Chat-Poster",
       "description": "Mehrschichtiger UI-Prompt zum Prüfen lesbarer Oberflächentexte, räumlicher Tiefe und Poster-Erzeugung im Chat."
     },
-    "16": {
-      "title": "Regnerische Istanbul-Szene als Texttest",
-      "description": "Mehrsprachiger Straßenszenen-Prompt für türkische Schrift, Handschrift, nasse Reflexionen, natürliche Menschenmengen und realistische Anatomie."
-    },
     "17": {
       "title": "Vintage-Coquette-Referenzporträt",
       "description": "Referenzgeführter Beauty-Prompt für Identitätserhalt, realistische Hautstruktur, altrosa Styling und engen Editorial-Beschnitt."
@@ -367,6 +363,10 @@
     "18": {
       "title": "Identitätsbearbeitung einer rebellischen Rockmusikerin",
       "description": "Ein quellenbelegter Fall zu „Identitätsbearbeitung einer rebellischen Rockmusikerin“ mit wiederverwendbaren Anweisungen und überprüfbaren Ergebnismedien."
+    },
+    "19": {
+      "title": "Porträt im Song-Stil mit feiner Tusche und fotografischem Licht",
+      "description": "Ein quellenbasiertes Qwen-Image-3-Porträt mit Song-inspirierter Komposition, lesbarer Kalligrafie, Seidentextur und zurückhaltender Editorialfarbe."
     }
   },
   "fr": {
@@ -430,10 +430,6 @@
       "title": "Editeur de code imbrique et affiche dans le chat",
       "description": "Prompt d interface en couches pour tester le texte UI lisible, la profondeur spatiale et la creation d affiche dans un chat."
     },
-    "16": {
-      "title": "Test de texte dans une rue pluvieuse d Istanbul",
-      "description": "Scene urbaine multilingue pour verifier les caracteres turcs, l ecriture manuscrite, les reflets mouilles, la foule naturelle et l anatomie realiste."
-    },
     "17": {
       "title": "Portrait coquette vintage avec reference",
       "description": "Prompt de portrait guide par reference, centre sur l identite, la texture de peau realiste, le style vieux rose et le cadrage editorial serre."
@@ -441,6 +437,10 @@
     "18": {
       "title": "Édition d’identité d’une rockeuse rebelle",
       "description": "Un cas documenté par une source autour de « Édition d’identité d’une rockeuse rebelle », avec des instructions réutilisables et un résultat vérifiable."
+    },
+    "19": {
+      "title": "Portrait d’inspiration Song à l’encre délicate et lumière photographique",
+      "description": "Un portrait Qwen Image 3 documenté par une source, qui associe une composition inspirée des Song, une calligraphie lisible, une texture de soie et une palette éditoriale maîtrisée."
     }
   },
   "it": {
@@ -504,10 +504,6 @@
       "title": "Editor di codice annidato e poster in chat",
       "description": "Prompt UI a livelli per testare testo leggibile, profondita spaziale e generazione di un poster dentro una chat."
     },
-    "16": {
-      "title": "Test di testo in una strada piovosa di Istanbul",
-      "description": "Scena urbana multilingue per verificare lettere turche, scrittura a mano, riflessi bagnati, folla naturale e anatomia realistica."
-    },
     "17": {
       "title": "Ritratto coquette vintage con riferimento",
       "description": "Prompt ritratto guidato da riferimento per conservare identita, pelle realistica, stile rosa antico e inquadratura editoriale ravvicinata."
@@ -515,6 +511,10 @@
     "18": {
       "title": "Modifica dell’identità di una rockstar ribelle",
       "description": "Un caso basato su fonti verificabili che esplora «Modifica dell’identità di una rockstar ribelle», con istruzioni riutilizzabili e media del risultato ispezionabili."
+    },
+    "19": {
+      "title": "Ritratto d’ispirazione Song con inchiostro raffinato e luce fotografica",
+      "description": "Un ritratto Qwen Image 3 documentato da una fonte, con composizione d’ispirazione Song, calligrafia leggibile, trama della seta e colore editoriale misurato."
     }
   },
   "pt": {
@@ -578,10 +578,6 @@
       "title": "Editor de codigo aninhado e poster no chat",
       "description": "Prompt de interface em camadas para testar texto de UI legivel, profundidade espacial e geracao de poster dentro de um chat."
     },
-    "16": {
-      "title": "Teste de texto em rua chuvosa de Istambul",
-      "description": "Cena urbana multilingue para avaliar letras turcas, escrita manual, reflexos molhados, multidoes naturais e anatomia realista."
-    },
     "17": {
       "title": "Retrato coquette vintage com referencia",
       "description": "Prompt de retrato guiado por referencia focado em identidade, textura real de pele, estilo rosa antigo e enquadramento editorial fechado."
@@ -589,6 +585,10 @@
     "18": {
       "title": "Edição de identidade de uma estrela de rock rebelde",
       "description": "Um caso baseado em fontes que explora “Edição de identidade de uma estrela de rock rebelde”, com instruções reutilizáveis e mídia de resultado verificável."
+    },
+    "19": {
+      "title": "Retrato de inspiração Song com tinta refinada e luz fotográfica",
+      "description": "Um retrato do Qwen Image 3 baseado em fonte que combina composição inspirada na dinastia Song, caligrafia legível, textura de seda e cor editorial contida."
     }
   },
   "nl": {
@@ -652,10 +652,6 @@
       "title": "Geneste code-editor en chatposterworkflow",
       "description": "Een gelaagde interfaceprompt die leesbare UI-tekst, ruimtelijke diepte en postercreatie binnen een chatwerkruimte test."
     },
-    "16": {
-      "title": "Teksttest in een regenachtige straat in Istanbul",
-      "description": "Een meertalige straatscene voor Turkse letters, handschrift, natte reflecties, natuurlijke drukte en fotorealistische anatomie."
-    },
     "17": {
       "title": "Vintage coquette referentieportret close-up",
       "description": "Een referentiegestuurde beautyprompt rond identiteitsbehoud, realistische huidtextuur, oudroze styling en nauwe editoriale kadrering."
@@ -663,6 +659,10 @@
     "18": {
       "title": "Identiteitsbewerking van een rebelse rockster",
       "description": "Een brononderbouwde case rond “Identiteitsbewerking van een rebelse rockster”, met herbruikbare instructies en controleerbare resultaatmedia."
+    },
+    "19": {
+      "title": "Portret in Song-stijl met verfijnde inkt en fotografisch licht",
+      "description": "Een brononderbouwd Qwen Image 3-portret met Song-geïnspireerde compositie, leesbare kalligrafie, zijde-textuur en ingetogen editorial kleuren."
     }
   },
   "pl": {
@@ -726,10 +726,6 @@
       "title": "Zagniezdzony edytor kodu i plakat w czacie",
       "description": "Warstwowy prompt interfejsu do testowania czytelnego tekstu UI, glebi przestrzennej i generowania plakatu wewnatrz czatu."
     },
-    "16": {
-      "title": "Test tekstu na deszczowej ulicy Stambulu",
-      "description": "Wielojezyczna scena uliczna sprawdzajaca tureckie znaki, pismo reczne, mokre odbicia, naturalny tlum i realistyczna anatomie."
-    },
     "17": {
       "title": "Vintage portret coquette z referencja",
       "description": "Prompt portretowy prowadzony referencja, skupiony na zachowaniu tozsamosci, realistycznej skorze, stylu starego rozu i ciasnym kadrze editorialowym."
@@ -737,6 +733,10 @@
     "18": {
       "title": "Edycja tożsamości zbuntowanej gwiazdy rocka",
       "description": "Udokumentowany przypadek dotyczący „Edycja tożsamości zbuntowanej gwiazdy rocka”, z instrukcjami do ponownego użycia i weryfikowalnym materiałem wynikowym."
+    },
+    "19": {
+      "title": "Portret w stylu Song z wyrafinowanym tuszem i fotograficznym światłem",
+      "description": "Udokumentowany portret Qwen Image 3 łączący kompozycję inspirowaną epoką Song, czytelną kaligrafię, fakturę jedwabiu i stonowany kolor redakcyjny."
     }
   },
   "ru": {
@@ -800,10 +800,6 @@
       "title": "Вложенный редактор кода и постер в чате",
       "description": "Многослойный UI-промпт для проверки читаемого текста интерфейса, глубины кадра и генерации постера внутри чата."
     },
-    "16": {
-      "title": "Дождливая улица Стамбула для проверки текста",
-      "description": "Многоязычная уличная сцена для турецких букв, рукописного текста, мокрых отражений, естественной толпы и реалистичной анатомии."
-    },
     "17": {
       "title": "Винтажный coquette-портрет по референсу",
       "description": "Промпт портрета по референсу с упором на сохранение идентичности, реалистичную кожу, старо-розовый стиль и крупный журнальный кадр."
@@ -811,6 +807,10 @@
     "18": {
       "title": "Редактирование образа бунтарской рок-звезды",
       "description": "Кейс с подтверждённым источником о задаче «Редактирование образа бунтарской рок-звезды», с повторно используемыми инструкциями и проверяемым результатом."
+    },
+    "19": {
+      "title": "Портрет в стиле эпохи Сун с тонкой тушью и фотографическим светом",
+      "description": "Портрет Qwen Image 3 с подтверждённым источником: композиция в духе Сун, читаемая каллиграфия, фактура шёлка и сдержанная редакционная палитра."
     }
   },
   "tr": {
@@ -874,10 +874,6 @@
       "title": "Ic ice kod editoru ve sohbet posteri is akisi",
       "description": "Okunabilir arayuz metni, mekansal derinlik ve sohbet icinde poster uretimini test eden katmanli UI istemi."
     },
-    "16": {
-      "title": "Yagmurlu Istanbul sokagi metin testi",
-      "description": "Turkce harfleri, el yazisini, islak yuzey yansimalarini, dogal kalabaligi ve gercekci anatomiyi olcen cok dilli sokak sahnesi istemi."
-    },
     "17": {
       "title": "Vintage coquette referans portresi",
       "description": "Kimlik koruma, gercekci cilt dokusu, eski gul tonu stil ve yakin editorial kadraja odaklanan referansli portre istemi."
@@ -885,6 +881,10 @@
     "18": {
       "title": "Asi bir rock yıldızına kimlik düzenlemesi",
       "description": "“Asi bir rock yıldızına kimlik düzenlemesi” konusunu yeniden kullanılabilir talimatlar ve doğrulanabilir sonuç medyasıyla ele alan kaynaklı bir vaka."
+    },
+    "19": {
+      "title": "İncelikli mürekkep ve fotoğraf ışığıyla Song tarzı portre",
+      "description": "Song esintili kompozisyonu, okunaklı kaligrafiyi, ipek dokusunu ve ölçülü editoryal renkleri birleştiren kaynaklı Qwen Image 3 portresi."
     }
   },
   "ar": {
@@ -948,10 +948,6 @@
       "title": "محرر كود متداخل مع ملصق داخل الدردشة",
       "description": "وصف متعدد الطبقات لاختبار وضوح نصوص الواجهة وعمق المشهد وتوليد ملصق داخل نافذة دردشة."
     },
-    "16": {
-      "title": "اختبار نص في شارع ممطر في اسطنبول",
-      "description": "مشهد شارع متعدد اللغات لاختبار الحروف التركية والكتابة اليدوية وانعكاسات المطر والحشود الطبيعية والتشريح الواقعي."
-    },
     "17": {
       "title": "بورتريه coquette عتيق بالاعتماد على مرجع",
       "description": "وصف بورتريه مرجعي يركز على حفظ الهوية وملمس الجلد الواقعي ولوحة وردية قديمة وتأطير تحريري قريب."
@@ -959,6 +955,10 @@
     "18": {
       "title": "تحرير هوية نجمة روك متمردة",
       "description": "حالة موثقة بالمصدر حول «تحرير هوية نجمة روك متمردة»، مع تعليمات قابلة لإعادة الاستخدام ووسائط نتيجة قابلة للتحقق."
+    },
+    "19": {
+      "title": "بورتريه بروح أسرة سونغ مع حبر رقيق وإضاءة فوتوغرافية",
+      "description": "بورتريه موثق المصدر من Qwen Image 3 يجمع تكوينًا مستوحى من سونغ، وخطًا مقروءًا، وملمس الحرير، وألوانًا تحريرية هادئة."
     }
   }
 }

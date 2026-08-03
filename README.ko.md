@@ -508,37 +508,6 @@ Keep every layer visually distinct: code editor chrome, chat sidebar, message bu
 
 ---
 
-### 16. 비 오는 이스탄불 거리 텍스트 테스트
-
-튀르키예어 철자, 손글씨, 젖은 표면 반사, 자연스러운 군중, 사실적인 인체를 점검하는 거리 장면 프롬프트.
-
-#### 프롬프트
-
-```text
-Create a photorealistic rainy street scene in Istanbul designed to test Turkish text accuracy, handwritten lettering, realistic hands, natural anatomy, and wet-weather reflections.
-
-Show a busy pedestrian avenue after rain. A fictional adult traveler stands near a small cafe table, holding a notebook and a transparent umbrella. On the notebook, include neat handwritten Turkish text using correct characters: ç, ğ, ı, İ, ö, ş, ü. Nearby shop signs and posters should also contain short, readable Turkish words with correct diacritics. Render believable skin texture, natural hand posture, damp fabric, puddles, crowd movement, street lamps, and reflected neon on wet pavement. Keep all faces fictional, avoid celebrity likeness, and make the image feel like an honest documentary photograph. Vertical 4:5.
-```
-
-<table><tr>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rO4cX0AAR78e.jpg" width="100%" alt="비 오는 이스탄불 거리 텍스트 테스트"></td>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rP9RWAAAst62.jpg" width="100%" alt="비 오는 이스탄불 거리 텍스트 테스트"></td>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rQ5tW0AAaIuX.jpg" width="100%" alt="비 오는 이스탄불 거리 텍스트 테스트"></td>
-<td width="25%"><img src="https://pbs.twimg.com/media/HN5rRfiW4AA_Eje.jpg" width="100%" alt="비 오는 이스탄불 거리 텍스트 테스트"></td>
-</tr></table>
-
-#### 출처 근거
-
-- **제작자:** [Ozan Sihay](https://x.com/ozansihay)
-- **공식 쇼케이스:** [Qwen Image 3.0](https://x.com/ozansihay/status/2080218385607008613)
-- **게시일:** 2026-07-23
-- **분류:** 사실적 표현과 소재 디테일
-- **참조 이미지 필요:** 아니요
-
-**[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
-
----
-
 ### 17. 빈티지 코케트 참조 인물 클로즈업
 
 정체성 보존, 사실적인 피부 질감, 올드 로즈 스타일링, 근접 편집 구도에 초점을 둔 참조 이미지 프롬프트.
@@ -590,6 +559,36 @@ Candid photography. Use facial identity, facial geometry and make-up but not ori
 - **게시일:** 2026-07-22
 - **분류:** 참조 편집 및 복원
 - **참조 이미지 필요:** 예
+
+**[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
+
+---
+
+### 19. 정제된 수묵과 사진 조명으로 표현한 송대풍 초상
+
+송대에서 영감을 받은 구도, 읽기 쉬운 서예, 비단 질감, 절제된 에디토리얼 컬러를 결합한 출처 기반 Qwen Image 3 포트레이트입니다.
+
+#### 프롬프트
+
+```text
+Create a vertical close-up portrait in a refined Song-dynasty aesthetic, combining meticulous silk-based painting with photographic light. Show a young East Asian woman from the chest up, turned slightly and occupying the right two-thirds of the frame, with generous breathing room on the left. Use a very pale moon-white silk background with fine woven texture and a faint blue-gray wash. Let a delicate ink-painted plum branch enter from the upper left, softly out of focus. A gentle beam of daylight from the upper left should fall across her cheek, nose bridge, and collarbone like morning light filtered through Song-era paper windows, with a fine rim of light along her hair.
+
+Give her luminous pale skin with visible fine texture and tiny vellus hairs, lightly brushed distant-mountain eyebrows, long slightly lifted eyes with a trace of pale rouge at the outer corners, long lashes, a calm gaze directed beyond the frame, a refined nose, full delicate lips with muted sandalwood tint, a clear jawline, long neck, and subtly visible collarbones. Her expression sits between composure and quiet pride, never coquettish or empty. Style her hair in a low, loose coiled bun with a few wind-lifted strands, black with a cool blue sheen. Add one plain silver hairpin, a small pearl flower, one pearl earring, and a tiny pearl forehead ornament; no heavy headdress.
+
+    Dress her in a moon-white bandeau and a pale aqua-blue straight-collar robe with a deep blue-green edge and extremely realistic woven texture. Let one apricot blossom fall onto her shoulder and two or three petals hover softly beside her, suggesting wind. In the left negative space, render the vertical Chinese calligraphic inscription 淡妆浓抹总相宜 in thin brown-gold regular script with a small vermilion seal. Keep the palette low-saturation moon white, aqua, and light sandalwood; lips and seal are the only warm accents. Use coherent soft Rembrandt-like light, very shallow depth of field, sharp eyes, ultra-detailed skin and fabric, 8K detail, and a quiet, contemporary portrait-photography breath within Song painting stillness.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN1YAvkagAAoW3N.jpg" width="100%" alt="정제된 수묵과 사진 조명으로 표현한 송대풍 초상"></td>
+</tr></table>
+
+#### 출처 근거
+
+- **제작자:** [岚叔](https://x.com/LufzzLiz)
+- **공식 쇼케이스:** [Qwen Image 3.0](https://x.com/LufzzLiz/status/2079925505634234856)
+- **게시일:** 2026-07-22
+- **분류:** 참조 편집 및 복원
+- **참조 이미지 필요:** 아니요
 
 **[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
 
