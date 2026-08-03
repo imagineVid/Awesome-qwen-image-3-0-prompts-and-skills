@@ -709,5 +709,49 @@
         }
       ]
     }
+  },
+  {
+    "id": 20,
+    "model": "Qwen Image 3.0",
+    "title": "Rain-speckled magazine cover with a glass chess knight",
+    "description": "A source-backed Qwen Image 3 publication case combining exact cover typography, reflective glass, a transparent object, and night editorial lighting.",
+    "content": "Create a vertical 4:5 photorealistic fashion-editorial magazine cover photographed through rain-speckled glass at night. Use the uploaded reference image for the transparent glass chess knight and preserve its exact silhouette, bevels, internal reflections, and scale. Place the knight on a dark walnut table with a soft city-light bokeh beyond the glass. At the top, render the exact masthead “LOOK CLOSER.” in a clean condensed serif. Add the exact small cover lines “ONE PROMPT. ZERO FIXES.” and “JULY 2026 · ISSUE 03” with precise spacing and readable punctuation. Use cool blue street reflections, a narrow warm key light on the knight, realistic droplets in the foreground, and balanced negative space. Keep all typography crisp and correctly spelled. No extra cover lines, fake logos, melted glass, duplicated chess pieces, or watermarks.",
+    "sourceLink": "https://x.com/ivanainai/status/2080000842959106328",
+    "sourcePublishedAt": "2026-07-22T18:43:40.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN2kFdfWsAEQTO-.jpg"
+    ],
+    "author": {
+      "name": "Ivana",
+      "link": "https://x.com/ivanainai"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 20,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "x-community-output",
+      "tweet_id": "2080000842959106328",
+      "prompt_source": "reply_text_prompt_normalized",
+      "model_evidence": "qwen-image-3.0",
+      "collected_at": "2026-08-03",
+      "retweetCount": 4,
+      "replyCount": 48,
+      "likeCount": 118,
+      "quoteCount": 1,
+      "viewCount": 34353,
+      "bookmarkCount": 52,
+      "case_id": "x-2080000842959106328",
+      "prompt_tweet_id": "2080066461750460512"
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 102,
+          "title": "Typography & Publication",
+          "slug": "typography-and-publication"
+        }
+      ]
+    }
   }
 ]

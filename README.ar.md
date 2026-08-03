@@ -54,7 +54,7 @@ Qwen Image 3.0 هو الجيل الثالث من نموذج إنشاء الصو�
 
 ## حالات العرض الرسمية الموثقة
 
-| حالة المجموعة | 18 حالة موثقة |
+| حالة المجموعة | 19 حالة موثقة |
 |---|---:|
 | آخر إنشاء | 2026-07-21 |
 
@@ -589,6 +589,32 @@ Give her luminous pale skin with visible fine texture and tiny vellus hairs, lig
 - **تاريخ النشر:** 2026-07-22
 - **الفئة:** التحرير والترميم بالمرجع
 - **تتطلب صورًا مرجعية:** لا
+
+**[استخدم هذه المطالبة في ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
+
+---
+
+### 20. غلاف مجلة مبلل بالمطر مع حصان شطرنج زجاجي
+
+حالة نشر موثقة المصدر من Qwen Image 3 تجمع بين كتابة غلاف دقيقة، وزجاج عاكس، وشيء شفاف، وإضاءة تحريرية ليلية.
+
+#### المطالبة
+
+```text
+Create a vertical 4:5 photorealistic fashion-editorial magazine cover photographed through rain-speckled glass at night. Use the uploaded reference image for the transparent glass chess knight and preserve its exact silhouette, bevels, internal reflections, and scale. Place the knight on a dark walnut table with a soft city-light bokeh beyond the glass. At the top, render the exact masthead “LOOK CLOSER.” in a clean condensed serif. Add the exact small cover lines “ONE PROMPT. ZERO FIXES.” and “JULY 2026 · ISSUE 03” with precise spacing and readable punctuation. Use cool blue street reflections, a narrow warm key light on the knight, realistic droplets in the foreground, and balanced negative space. Keep all typography crisp and correctly spelled. No extra cover lines, fake logos, melted glass, duplicated chess pieces, or watermarks.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN2kFdfWsAEQTO-.jpg" width="100%" alt="غلاف مجلة مبلل بالمطر مع حصان شطرنج زجاجي"></td>
+</tr></table>
+
+#### دليل المصدر
+
+- **المنشئ:** [Ivana](https://x.com/ivanainai)
+- **العرض الرسمي:** [Qwen Image 3.0](https://x.com/ivanainai/status/2080000842959106328)
+- **تاريخ النشر:** 2026-07-22
+- **الفئة:** الطباعة والنشر
+- **تتطلب صورًا مرجعية:** نعم
 
 **[استخدم هذه المطالبة في ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
 

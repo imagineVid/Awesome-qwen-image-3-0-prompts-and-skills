@@ -54,7 +54,7 @@ Qwen Image 3.0은 Qwen 팀의 3세대 이미지 생성·편집 모델입니다. 
 
 ## 검증된 공식 쇼케이스
 
-| 컬렉션 상태 | 18 개의 검증 사례 |
+| 컬렉션 상태 | 19 개의 검증 사례 |
 |---|---:|
 | 최근 생성일 | 2026-07-21 |
 
@@ -589,6 +589,32 @@ Give her luminous pale skin with visible fine texture and tiny vellus hairs, lig
 - **게시일:** 2026-07-22
 - **분류:** 참조 편집 및 복원
 - **참조 이미지 필요:** 아니요
+
+**[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
+
+---
+
+### 20. 빗방울 맺힌 잡지 표지와 유리 체스 나이트
+
+정확한 표지 타이포그래피, 반사 유리, 투명 오브젝트와 야간 에디토리얼 조명을 결합한 출처 기반 Qwen Image 3 출판 사례입니다.
+
+#### 프롬프트
+
+```text
+Create a vertical 4:5 photorealistic fashion-editorial magazine cover photographed through rain-speckled glass at night. Use the uploaded reference image for the transparent glass chess knight and preserve its exact silhouette, bevels, internal reflections, and scale. Place the knight on a dark walnut table with a soft city-light bokeh beyond the glass. At the top, render the exact masthead “LOOK CLOSER.” in a clean condensed serif. Add the exact small cover lines “ONE PROMPT. ZERO FIXES.” and “JULY 2026 · ISSUE 03” with precise spacing and readable punctuation. Use cool blue street reflections, a narrow warm key light on the knight, realistic droplets in the foreground, and balanced negative space. Keep all typography crisp and correctly spelled. No extra cover lines, fake logos, melted glass, duplicated chess pieces, or watermarks.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN2kFdfWsAEQTO-.jpg" width="100%" alt="빗방울 맺힌 잡지 표지와 유리 체스 나이트"></td>
+</tr></table>
+
+#### 출처 근거
+
+- **제작자:** [Ivana](https://x.com/ivanainai)
+- **공식 쇼케이스:** [Qwen Image 3.0](https://x.com/ivanainai/status/2080000842959106328)
+- **게시일:** 2026-07-22
+- **분류:** 타이포그래피 및 출판
+- **참조 이미지 필요:** 예
 
 **[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
 

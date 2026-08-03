@@ -71,6 +71,10 @@
     "19": {
       "title": "细腻水墨与摄影光影融合的宋式肖像",
       "description": "融合宋式构图、清晰题字、绢本质感和克制编辑色彩的来源明确 Qwen Image 3 肖像。"
+    },
+    "20": {
+      "title": "雨滴杂志封面与玻璃国际象棋骑士",
+      "description": "融合精确封面文字、反射玻璃、透明物体和夜间编辑光线的来源明确 Qwen Image 3 出版案例。"
     }
   },
   "ja": {
@@ -145,6 +149,10 @@
     "19": {
       "title": "洗練された水墨と写真光で描く宋風ポートレート",
       "description": "宋代に着想を得た構図、読みやすい書、絹の質感、抑制した編集色を組み合わせる出典付きQwen Image 3ポートレート。"
+    },
+    "20": {
+      "title": "雨粒のついた雑誌表紙とガラスのナイト駒",
+      "description": "正確な表紙文字、反射するガラス、透明なオブジェクト、夜のエディトリアル照明を組み合わせる出典付きQwen Image 3出版ケース。"
     }
   },
   "ko": {
@@ -219,6 +227,10 @@
     "19": {
       "title": "정제된 수묵과 사진 조명으로 표현한 송대풍 초상",
       "description": "송대에서 영감을 받은 구도, 읽기 쉬운 서예, 비단 질감, 절제된 에디토리얼 컬러를 결합한 출처 기반 Qwen Image 3 포트레이트입니다."
+    },
+    "20": {
+      "title": "빗방울 맺힌 잡지 표지와 유리 체스 나이트",
+      "description": "정확한 표지 타이포그래피, 반사 유리, 투명 오브젝트와 야간 에디토리얼 조명을 결합한 출처 기반 Qwen Image 3 출판 사례입니다."
     }
   },
   "es": {
@@ -293,6 +305,10 @@
     "19": {
       "title": "Retrato de inspiración Song con tinta refinada y luz fotográfica",
       "description": "Un retrato de Qwen Image 3 basado en una fuente que combina composición inspirada en la dinastía Song, caligrafía legible, textura de seda y color editorial sobrio."
+    },
+    "20": {
+      "title": "Portada de revista con lluvia y un caballo de ajedrez de cristal",
+      "description": "Un caso editorial de Qwen Image 3 basado en una fuente que combina tipografía exacta de portada, cristal reflectante, un objeto transparente e iluminación editorial nocturna."
     }
   },
   "de": {
@@ -367,6 +383,10 @@
     "19": {
       "title": "Porträt im Song-Stil mit feiner Tusche und fotografischem Licht",
       "description": "Ein quellenbasiertes Qwen-Image-3-Porträt mit Song-inspirierter Komposition, lesbarer Kalligrafie, Seidentextur und zurückhaltender Editorialfarbe."
+    },
+    "20": {
+      "title": "Regennasse Magazincover mit einem gläsernen Schachritter",
+      "description": "Ein quellenbasierter Qwen-Image-3-Publikationsfall mit exakter Cover-Typografie, reflektierendem Glas, einem transparenten Objekt und nächtlichem Editorial-Licht."
     }
   },
   "fr": {
@@ -441,6 +461,10 @@
     "19": {
       "title": "Portrait d’inspiration Song à l’encre délicate et lumière photographique",
       "description": "Un portrait Qwen Image 3 documenté par une source, qui associe une composition inspirée des Song, une calligraphie lisible, une texture de soie et une palette éditoriale maîtrisée."
+    },
+    "20": {
+      "title": "Couverture de magazine mouillée par la pluie avec cavalier d’échecs en verre",
+      "description": "Un cas éditorial Qwen Image 3 documenté par une source, associant une typographie de couverture précise, du verre réfléchissant, un objet transparent et une lumière éditoriale nocturne."
     }
   },
   "it": {
@@ -515,6 +539,10 @@
     "19": {
       "title": "Ritratto d’ispirazione Song con inchiostro raffinato e luce fotografica",
       "description": "Un ritratto Qwen Image 3 documentato da una fonte, con composizione d’ispirazione Song, calligrafia leggibile, trama della seta e colore editoriale misurato."
+    },
+    "20": {
+      "title": "Copertina di rivista punteggiata dalla pioggia con cavallo degli scacchi in vetro",
+      "description": "Un caso editoriale Qwen Image 3 documentato da una fonte, che combina tipografia precisa, vetro riflettente, oggetto trasparente e luce editoriale notturna."
     }
   },
   "pt": {
@@ -589,6 +617,10 @@
     "19": {
       "title": "Retrato de inspiração Song com tinta refinada e luz fotográfica",
       "description": "Um retrato do Qwen Image 3 baseado em fonte que combina composição inspirada na dinastia Song, caligrafia legível, textura de seda e cor editorial contida."
+    },
+    "20": {
+      "title": "Capa de revista molhada pela chuva com um cavalo de xadrez de vidro",
+      "description": "Um caso editorial do Qwen Image 3 baseado em fonte, combinando tipografia exata de capa, vidro refletivo, objeto transparente e luz editorial noturna."
     }
   },
   "nl": {
@@ -663,6 +695,10 @@
     "19": {
       "title": "Portret in Song-stijl met verfijnde inkt en fotografisch licht",
       "description": "Een brononderbouwd Qwen Image 3-portret met Song-geïnspireerde compositie, leesbare kalligrafie, zijde-textuur en ingetogen editorial kleuren."
+    },
+    "20": {
+      "title": "Tijdschriftcover met regendruppels en een glazen schaakpaard",
+      "description": "Een brononderbouwde Qwen Image 3-publicatiecase met exacte covertypografie, reflecterend glas, een transparant object en nachtelijk editorial licht."
     }
   },
   "pl": {
@@ -737,6 +773,10 @@
     "19": {
       "title": "Portret w stylu Song z wyrafinowanym tuszem i fotograficznym światłem",
       "description": "Udokumentowany portret Qwen Image 3 łączący kompozycję inspirowaną epoką Song, czytelną kaligrafię, fakturę jedwabiu i stonowany kolor redakcyjny."
+    },
+    "20": {
+      "title": "Okładka magazynu pokryta deszczem ze szklanym skoczkiem szachowym",
+      "description": "Udokumentowany przypadek publikacyjny Qwen Image 3 łączący dokładną typografię okładki, odbijające szkło, przezroczysty obiekt i nocne światło editorial."
     }
   },
   "ru": {
@@ -811,6 +851,10 @@
     "19": {
       "title": "Портрет в стиле эпохи Сун с тонкой тушью и фотографическим светом",
       "description": "Портрет Qwen Image 3 с подтверждённым источником: композиция в духе Сун, читаемая каллиграфия, фактура шёлка и сдержанная редакционная палитра."
+    },
+    "20": {
+      "title": "Обложка журнала в каплях дождя со стеклянным шахматным конём",
+      "description": "Публикационный кейс Qwen Image 3 с подтверждённым источником: точная типографика обложки, отражающее стекло, прозрачный объект и ночной редакционный свет."
     }
   },
   "tr": {
@@ -885,6 +929,10 @@
     "19": {
       "title": "İncelikli mürekkep ve fotoğraf ışığıyla Song tarzı portre",
       "description": "Song esintili kompozisyonu, okunaklı kaligrafiyi, ipek dokusunu ve ölçülü editoryal renkleri birleştiren kaynaklı Qwen Image 3 portresi."
+    },
+    "20": {
+      "title": "Yağmur damlalı dergi kapağı ve cam satranç atı",
+      "description": "Kesin kapak tipografisini, yansıtıcı camı, şeffaf nesneyi ve gece editoryal ışığını birleştiren kaynaklı Qwen Image 3 yayın örneği."
     }
   },
   "ar": {
@@ -959,6 +1007,10 @@
     "19": {
       "title": "بورتريه بروح أسرة سونغ مع حبر رقيق وإضاءة فوتوغرافية",
       "description": "بورتريه موثق المصدر من Qwen Image 3 يجمع تكوينًا مستوحى من سونغ، وخطًا مقروءًا، وملمس الحرير، وألوانًا تحريرية هادئة."
+    },
+    "20": {
+      "title": "غلاف مجلة مبلل بالمطر مع حصان شطرنج زجاجي",
+      "description": "حالة نشر موثقة المصدر من Qwen Image 3 تجمع بين كتابة غلاف دقيقة، وزجاج عاكس، وشيء شفاف، وإضاءة تحريرية ليلية."
     }
   }
 }

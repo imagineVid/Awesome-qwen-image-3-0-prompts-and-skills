@@ -54,7 +54,7 @@ Qwen Image 3.0 est la troisième génération du modèle de génération et d'é
 
 ## Cas officiels vérifiés
 
-| État de la collection | 18 cas vérifiés |
+| État de la collection | 19 cas vérifiés |
 |---|---:|
 | Dernière génération | 2026-07-21 |
 
@@ -589,6 +589,32 @@ Give her luminous pale skin with visible fine texture and tiny vellus hairs, lig
 - **Publié le:** 2026-07-22
 - **Catégorie:** Édition et restauration par référence
 - **Images de référence requises:** Non
+
+**[Utiliser ce prompt sur ImagineVid](https://imaginevid.io/fr/ai-image-generator)**
+
+---
+
+### 20. Couverture de magazine mouillée par la pluie avec cavalier d’échecs en verre
+
+Un cas éditorial Qwen Image 3 documenté par une source, associant une typographie de couverture précise, du verre réfléchissant, un objet transparent et une lumière éditoriale nocturne.
+
+#### Prompt
+
+```text
+Create a vertical 4:5 photorealistic fashion-editorial magazine cover photographed through rain-speckled glass at night. Use the uploaded reference image for the transparent glass chess knight and preserve its exact silhouette, bevels, internal reflections, and scale. Place the knight on a dark walnut table with a soft city-light bokeh beyond the glass. At the top, render the exact masthead “LOOK CLOSER.” in a clean condensed serif. Add the exact small cover lines “ONE PROMPT. ZERO FIXES.” and “JULY 2026 · ISSUE 03” with precise spacing and readable punctuation. Use cool blue street reflections, a narrow warm key light on the knight, realistic droplets in the foreground, and balanced negative space. Keep all typography crisp and correctly spelled. No extra cover lines, fake logos, melted glass, duplicated chess pieces, or watermarks.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN2kFdfWsAEQTO-.jpg" width="100%" alt="Couverture de magazine mouillée par la pluie avec cavalier d’échecs en verre"></td>
+</tr></table>
+
+#### Preuve de la source
+
+- **Créateur:** [Ivana](https://x.com/ivanainai)
+- **Démonstration officielle:** [Qwen Image 3.0](https://x.com/ivanainai/status/2080000842959106328)
+- **Publié le:** 2026-07-22
+- **Catégorie:** Typographie et publication
+- **Images de référence requises:** Oui
 
 **[Utiliser ce prompt sur ImagineVid](https://imaginevid.io/fr/ai-image-generator)**
 

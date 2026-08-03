@@ -54,7 +54,7 @@ Qwen Image 3.0 は Qwen チームによる第3世代の画像生成・編集モ�
 
 ## 検証済み公式ショーケース
 
-| 収録状況 | 18 件の検証済み事例 |
+| 収録状況 | 19 件の検証済み事例 |
 |---|---:|
 | 最終生成日 | 2026-07-21 |
 
@@ -589,6 +589,32 @@ Give her luminous pale skin with visible fine texture and tiny vellus hairs, lig
 - **公開日:** 2026-07-22
 - **カテゴリー:** 参照編集と修復
 - **参照画像が必要:** いいえ
+
+**[ImagineVid でこのプロンプトを使う](https://imaginevid.io/ja/ai-image-generator)**
+
+---
+
+### 20. 雨粒のついた雑誌表紙とガラスのナイト駒
+
+正確な表紙文字、反射するガラス、透明なオブジェクト、夜のエディトリアル照明を組み合わせる出典付きQwen Image 3出版ケース。
+
+#### プロンプト
+
+```text
+Create a vertical 4:5 photorealistic fashion-editorial magazine cover photographed through rain-speckled glass at night. Use the uploaded reference image for the transparent glass chess knight and preserve its exact silhouette, bevels, internal reflections, and scale. Place the knight on a dark walnut table with a soft city-light bokeh beyond the glass. At the top, render the exact masthead “LOOK CLOSER.” in a clean condensed serif. Add the exact small cover lines “ONE PROMPT. ZERO FIXES.” and “JULY 2026 · ISSUE 03” with precise spacing and readable punctuation. Use cool blue street reflections, a narrow warm key light on the knight, realistic droplets in the foreground, and balanced negative space. Keep all typography crisp and correctly spelled. No extra cover lines, fake logos, melted glass, duplicated chess pieces, or watermarks.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN2kFdfWsAEQTO-.jpg" width="100%" alt="雨粒のついた雑誌表紙とガラスのナイト駒"></td>
+</tr></table>
+
+#### 出典情報
+
+- **作成者:** [Ivana](https://x.com/ivanainai)
+- **公式ショーケース:** [Qwen Image 3.0](https://x.com/ivanainai/status/2080000842959106328)
+- **公開日:** 2026-07-22
+- **カテゴリー:** タイポグラフィと出版
+- **参照画像が必要:** はい
 
 **[ImagineVid でこのプロンプトを使う](https://imaginevid.io/ja/ai-image-generator)**
 

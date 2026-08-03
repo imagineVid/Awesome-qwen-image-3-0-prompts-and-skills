@@ -54,7 +54,7 @@ Qwen Image 3.0 是 Qwen 团队推出的第三代图像生成与编辑模型。�
 
 ## 已核验的官方案例
 
-| 合集状态 | 18 个已核验案例 |
+| 合集状态 | 19 个已核验案例 |
 |---|---:|
 | 最近生成 | 2026-07-21 |
 
@@ -589,6 +589,32 @@ Give her luminous pale skin with visible fine texture and tiny vellus hairs, lig
 - **发布时间:** 2026-07-22
 - **分类:** 参考图编辑与修复
 - **需要参考图:** 否
+
+**[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
+### 20. 雨滴杂志封面与玻璃国际象棋骑士
+
+融合精确封面文字、反射玻璃、透明物体和夜间编辑光线的来源明确 Qwen Image 3 出版案例。
+
+#### 提示词
+
+```text
+Create a vertical 4:5 photorealistic fashion-editorial magazine cover photographed through rain-speckled glass at night. Use the uploaded reference image for the transparent glass chess knight and preserve its exact silhouette, bevels, internal reflections, and scale. Place the knight on a dark walnut table with a soft city-light bokeh beyond the glass. At the top, render the exact masthead “LOOK CLOSER.” in a clean condensed serif. Add the exact small cover lines “ONE PROMPT. ZERO FIXES.” and “JULY 2026 · ISSUE 03” with precise spacing and readable punctuation. Use cool blue street reflections, a narrow warm key light on the knight, realistic droplets in the foreground, and balanced negative space. Keep all typography crisp and correctly spelled. No extra cover lines, fake logos, melted glass, duplicated chess pieces, or watermarks.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN2kFdfWsAEQTO-.jpg" width="100%" alt="雨滴杂志封面与玻璃国际象棋骑士"></td>
+</tr></table>
+
+#### 来源证据
+
+- **创作者:** [Ivana](https://x.com/ivanainai)
+- **官方展示:** [Qwen Image 3.0](https://x.com/ivanainai/status/2080000842959106328)
+- **发布时间:** 2026-07-22
+- **分类:** 排版与出版
+- **需要参考图:** 是
 
 **[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
 

@@ -54,7 +54,7 @@ Qwen Image 3.0 ist die dritte Generation des Bildgenerierungs- und Bearbeitungsm
 
 ## Geprüfte offizielle Beispiele
 
-| Sammlungsstatus | 18 geprüfte Beispiele |
+| Sammlungsstatus | 19 geprüfte Beispiele |
 |---|---:|
 | Zuletzt erstellt | 2026-07-21 |
 
@@ -589,6 +589,32 @@ Give her luminous pale skin with visible fine texture and tiny vellus hairs, lig
 - **Veröffentlicht:** 2026-07-22
 - **Kategorie:** Referenzbearbeitung und Restaurierung
 - **Referenzbilder erforderlich:** Nein
+
+**[Diesen Prompt in ImagineVid verwenden](https://imaginevid.io/de/ai-image-generator)**
+
+---
+
+### 20. Regennasse Magazincover mit einem gläsernen Schachritter
+
+Ein quellenbasierter Qwen-Image-3-Publikationsfall mit exakter Cover-Typografie, reflektierendem Glas, einem transparenten Objekt und nächtlichem Editorial-Licht.
+
+#### Prompt
+
+```text
+Create a vertical 4:5 photorealistic fashion-editorial magazine cover photographed through rain-speckled glass at night. Use the uploaded reference image for the transparent glass chess knight and preserve its exact silhouette, bevels, internal reflections, and scale. Place the knight on a dark walnut table with a soft city-light bokeh beyond the glass. At the top, render the exact masthead “LOOK CLOSER.” in a clean condensed serif. Add the exact small cover lines “ONE PROMPT. ZERO FIXES.” and “JULY 2026 · ISSUE 03” with precise spacing and readable punctuation. Use cool blue street reflections, a narrow warm key light on the knight, realistic droplets in the foreground, and balanced negative space. Keep all typography crisp and correctly spelled. No extra cover lines, fake logos, melted glass, duplicated chess pieces, or watermarks.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN2kFdfWsAEQTO-.jpg" width="100%" alt="Regennasse Magazincover mit einem gläsernen Schachritter"></td>
+</tr></table>
+
+#### Quellennachweis
+
+- **Urheber:** [Ivana](https://x.com/ivanainai)
+- **Offizielles Beispiel:** [Qwen Image 3.0](https://x.com/ivanainai/status/2080000842959106328)
+- **Veröffentlicht:** 2026-07-22
+- **Kategorie:** Typografie und Publikation
+- **Referenzbilder erforderlich:** Ja
 
 **[Diesen Prompt in ImagineVid verwenden](https://imaginevid.io/de/ai-image-generator)**
 

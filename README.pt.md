@@ -54,7 +54,7 @@ Qwen Image 3.0 é a terceira geração do modelo de geração e edição de imag
 
 ## Casos oficiais verificados
 
-| Estado da coleção | 18 casos verificados |
+| Estado da coleção | 19 casos verificados |
 |---|---:|
 | Última geração | 2026-07-21 |
 
@@ -589,6 +589,32 @@ Give her luminous pale skin with visible fine texture and tiny vellus hairs, lig
 - **Publicado:** 2026-07-22
 - **Categoria:** Edição e restauração por referência
 - **Exige imagens de referência:** Não
+
+**[Usar este prompt no ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
+
+---
+
+### 20. Capa de revista molhada pela chuva com um cavalo de xadrez de vidro
+
+Um caso editorial do Qwen Image 3 baseado em fonte, combinando tipografia exata de capa, vidro refletivo, objeto transparente e luz editorial noturna.
+
+#### Prompt
+
+```text
+Create a vertical 4:5 photorealistic fashion-editorial magazine cover photographed through rain-speckled glass at night. Use the uploaded reference image for the transparent glass chess knight and preserve its exact silhouette, bevels, internal reflections, and scale. Place the knight on a dark walnut table with a soft city-light bokeh beyond the glass. At the top, render the exact masthead “LOOK CLOSER.” in a clean condensed serif. Add the exact small cover lines “ONE PROMPT. ZERO FIXES.” and “JULY 2026 · ISSUE 03” with precise spacing and readable punctuation. Use cool blue street reflections, a narrow warm key light on the knight, realistic droplets in the foreground, and balanced negative space. Keep all typography crisp and correctly spelled. No extra cover lines, fake logos, melted glass, duplicated chess pieces, or watermarks.
+```
+
+<table><tr>
+<td width="100%"><img src="https://pbs.twimg.com/media/HN2kFdfWsAEQTO-.jpg" width="100%" alt="Capa de revista molhada pela chuva com um cavalo de xadrez de vidro"></td>
+</tr></table>
+
+#### Evidência da fonte
+
+- **Criador:** [Ivana](https://x.com/ivanainai)
+- **Demonstração oficial:** [Qwen Image 3.0](https://x.com/ivanainai/status/2080000842959106328)
+- **Publicado:** 2026-07-22
+- **Categoria:** Tipografia e publicação
+- **Exige imagens de referência:** Sim
 
 **[Usar este prompt no ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
 
