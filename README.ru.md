@@ -54,7 +54,7 @@ Qwen Image 3.0 — третье поколение модели генераци
 
 ## Проверенные официальные примеры
 
-| Состояние коллекции | 17 проверенных примеров |
+| Состояние коллекции | 18 проверенных примеров |
 |---|---:|
 | Последнее обновление | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **Официальная демонстрация:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **Опубликовано:** 2026-07-23
 - **Категория:** Фотореализм и детали материалов
+- **Нужны референсные изображения:** Да
+
+**[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**
+
+---
+
+### 18. Редактирование образа бунтарской рок-звезды
+
+Кейс с подтверждённым источником о задаче «Редактирование образа бунтарской рок-звезды», с повторно используемыми инструкциями и проверяемым результатом.
+
+#### Промпт
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="Редактирование образа бунтарской рок-звезды"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="Редактирование образа бунтарской рок-звезды"></td>
+</tr></table>
+
+#### Подтверждение источника
+
+- **Автор:** [Ash](https://x.com/asheem01)
+- **Официальная демонстрация:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **Опубликовано:** 2026-07-22
+- **Категория:** Редактирование и реставрация по референсу
 - **Нужны референсные изображения:** Да
 
 **[Использовать промпт в ImagineVid](https://imaginevid.io/ru/ai-image-generator)**

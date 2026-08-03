@@ -54,7 +54,7 @@ Qwen Image 3.0 هو الجيل الثالث من نموذج إنشاء الصو�
 
 ## حالات العرض الرسمية الموثقة
 
-| حالة المجموعة | 17 حالة موثقة |
+| حالة المجموعة | 18 حالة موثقة |
 |---|---:|
 | آخر إنشاء | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **العرض الرسمي:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **تاريخ النشر:** 2026-07-23
 - **الفئة:** الواقعية الفوتوغرافية وتفاصيل المواد
+- **تتطلب صورًا مرجعية:** نعم
+
+**[استخدم هذه المطالبة في ImagineVid](https://imaginevid.io/ar/ai-image-generator)**
+
+---
+
+### 18. تحرير هوية نجمة روك متمردة
+
+حالة موثقة بالمصدر حول «تحرير هوية نجمة روك متمردة»، مع تعليمات قابلة لإعادة الاستخدام ووسائط نتيجة قابلة للتحقق.
+
+#### المطالبة
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="تحرير هوية نجمة روك متمردة"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="تحرير هوية نجمة روك متمردة"></td>
+</tr></table>
+
+#### دليل المصدر
+
+- **المنشئ:** [Ash](https://x.com/asheem01)
+- **العرض الرسمي:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **تاريخ النشر:** 2026-07-22
+- **الفئة:** التحرير والترميم بالمرجع
 - **تتطلب صورًا مرجعية:** نعم
 
 **[استخدم هذه المطالبة في ImagineVid](https://imaginevid.io/ar/ai-image-generator)**

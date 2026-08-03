@@ -54,7 +54,7 @@ Qwen Image 3.0 é a terceira geração do modelo de geração e edição de imag
 
 ## Casos oficiais verificados
 
-| Estado da coleção | 17 casos verificados |
+| Estado da coleção | 18 casos verificados |
 |---|---:|
 | Última geração | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **Demonstração oficial:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **Publicado:** 2026-07-23
 - **Categoria:** Fotorrealismo e detalhes de materiais
+- **Exige imagens de referência:** Sim
+
+**[Usar este prompt no ImagineVid](https://imaginevid.io/pt/ai-image-generator)**
+
+---
+
+### 18. Edição de identidade de uma estrela de rock rebelde
+
+Um caso baseado em fontes que explora “Edição de identidade de uma estrela de rock rebelde”, com instruções reutilizáveis e mídia de resultado verificável.
+
+#### Prompt
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="Edição de identidade de uma estrela de rock rebelde"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="Edição de identidade de uma estrela de rock rebelde"></td>
+</tr></table>
+
+#### Evidência da fonte
+
+- **Criador:** [Ash](https://x.com/asheem01)
+- **Demonstração oficial:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **Publicado:** 2026-07-22
+- **Categoria:** Edição e restauração por referência
 - **Exige imagens de referência:** Sim
 
 **[Usar este prompt no ImagineVid](https://imaginevid.io/pt/ai-image-generator)**

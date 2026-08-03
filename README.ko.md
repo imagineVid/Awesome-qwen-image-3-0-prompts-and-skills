@@ -54,7 +54,7 @@ Qwen Image 3.0은 Qwen 팀의 3세대 이미지 생성·편집 모델입니다. 
 
 ## 검증된 공식 쇼케이스
 
-| 컬렉션 상태 | 17 개의 검증 사례 |
+| 컬렉션 상태 | 18 개의 검증 사례 |
 |---|---:|
 | 최근 생성일 | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **공식 쇼케이스:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **게시일:** 2026-07-23
 - **분류:** 사실적 표현과 소재 디테일
+- **참조 이미지 필요:** 예
+
+**[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**
+
+---
+
+### 18. 반항적인 록스타 아이덴티티 편집
+
+검증 가능한 결과 미디어와 재사용 가능한 지침으로 '반항적인 록스타 아이덴티티 편집'을 테스트하는 출처 기반 사례입니다.
+
+#### 프롬프트
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="반항적인 록스타 아이덴티티 편집"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="반항적인 록스타 아이덴티티 편집"></td>
+</tr></table>
+
+#### 출처 근거
+
+- **제작자:** [Ash](https://x.com/asheem01)
+- **공식 쇼케이스:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **게시일:** 2026-07-22
+- **분류:** 참조 편집 및 복원
 - **참조 이미지 필요:** 예
 
 **[ImagineVid에서 이 프롬프트 사용](https://imaginevid.io/ko/ai-image-generator)**

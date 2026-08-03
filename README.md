@@ -54,7 +54,7 @@ Qwen Image 3.0 is the third-generation image generation and editing model from t
 
 ## Verified official showcase cases
 
-| Collection status | 17 verified cases |
+| Collection status | 18 verified cases |
 |---|---:|
 | Last generated | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **Official showcase:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **Published:** 2026-07-23
 - **Category:** Photorealism & Material Detail
+- **Reference images required:** Yes
+
+**[Use this prompt on ImagineVid](https://imaginevid.io/ai-image-generator)**
+
+---
+
+### 18. Rebellious rockstar identity edit
+
+A source-backed Qwen Image 3.0 identity edit that preserves facial geometry while changing hair, styling, pose, and environment into a rebellious rockstar portrait.
+
+#### Prompt
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="Rebellious rockstar identity edit"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="Rebellious rockstar identity edit"></td>
+</tr></table>
+
+#### Source evidence
+
+- **Creator:** [Ash](https://x.com/asheem01)
+- **Official showcase:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **Published:** 2026-07-22
+- **Category:** Reference Editing & Restoration
 - **Reference images required:** Yes
 
 **[Use this prompt on ImagineVid](https://imaginevid.io/ai-image-generator)**

@@ -54,7 +54,7 @@ Qwen Image 3.0 to trzecia generacja modelu tworzenia i edycji obrazów zespołu 
 
 ## Zweryfikowane oficjalne przykłady
 
-| Stan kolekcji | 17 zweryfikowanych przykładów |
+| Stan kolekcji | 18 zweryfikowanych przykładów |
 |---|---:|
 | Ostatnio wygenerowano | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **Oficjalny przykład:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **Opublikowano:** 2026-07-23
 - **Kategoria:** Fotorealizm i szczegóły materiałów
+- **Wymaga obrazów referencyjnych:** Tak
+
+**[Użyj tego promptu w ImagineVid](https://imaginevid.io/pl/ai-image-generator)**
+
+---
+
+### 18. Edycja tożsamości zbuntowanej gwiazdy rocka
+
+Udokumentowany przypadek dotyczący „Edycja tożsamości zbuntowanej gwiazdy rocka”, z instrukcjami do ponownego użycia i weryfikowalnym materiałem wynikowym.
+
+#### Prompt
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="Edycja tożsamości zbuntowanej gwiazdy rocka"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="Edycja tożsamości zbuntowanej gwiazdy rocka"></td>
+</tr></table>
+
+#### Dowód źródłowy
+
+- **Twórca:** [Ash](https://x.com/asheem01)
+- **Oficjalny przykład:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **Opublikowano:** 2026-07-22
+- **Kategoria:** Edycja i renowacja referencyjna
 - **Wymaga obrazów referencyjnych:** Tak
 
 **[Użyj tego promptu w ImagineVid](https://imaginevid.io/pl/ai-image-generator)**

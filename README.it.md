@@ -54,7 +54,7 @@ Qwen Image 3.0 è la terza generazione del modello di generazione e modifica del
 
 ## Casi ufficiali verificati
 
-| Stato della raccolta | 17 casi verificati |
+| Stato della raccolta | 18 casi verificati |
 |---|---:|
 | Ultima generazione | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **Esempio ufficiale:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **Pubblicato:** 2026-07-23
 - **Categoria:** Fotorealismo e dettaglio dei materiali
+- **Immagini di riferimento necessarie:** Sì
+
+**[Usa questo prompt su ImagineVid](https://imaginevid.io/it/ai-image-generator)**
+
+---
+
+### 18. Modifica dell’identità di una rockstar ribelle
+
+Un caso basato su fonti verificabili che esplora «Modifica dell’identità di una rockstar ribelle», con istruzioni riutilizzabili e media del risultato ispezionabili.
+
+#### Prompt
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="Modifica dell’identità di una rockstar ribelle"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="Modifica dell’identità di una rockstar ribelle"></td>
+</tr></table>
+
+#### Prova della fonte
+
+- **Autore:** [Ash](https://x.com/asheem01)
+- **Esempio ufficiale:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **Pubblicato:** 2026-07-22
+- **Categoria:** Modifica e restauro con riferimenti
 - **Immagini di riferimento necessarie:** Sì
 
 **[Usa questo prompt su ImagineVid](https://imaginevid.io/it/ai-image-generator)**

@@ -668,5 +668,49 @@
         }
       ]
     }
+  },
+  {
+    "id": 18,
+    "model": "Qwen Image 3.0",
+    "title": "Rebellious rockstar identity edit",
+    "description": "A source-backed Qwen Image 3.0 identity edit that preserves facial geometry while changing hair, styling, pose, and environment into a rebellious rockstar portrait.",
+    "content": "Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.",
+    "sourceLink": "https://x.com/asheem01/status/2079940712322199938",
+    "sourcePublishedAt": "2026-07-22T14:44:43.000Z",
+    "sourceMedia": [
+      "https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg",
+      "https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg"
+    ],
+    "author": {
+      "name": "Ash",
+      "link": "https://x.com/asheem01"
+    },
+    "language": "en",
+    "featured": false,
+    "sort": 18,
+    "needReferenceImages": true,
+    "sourceMeta": {
+      "source": "x-community-output",
+      "tweet_id": "2079940712322199938",
+      "prompt_source": "reply_text_prompt_normalized",
+      "model_evidence": "qwen-image-3.0",
+      "collected_at": "2026-08-03",
+      "retweetCount": 0,
+      "replyCount": 0,
+      "likeCount": 3,
+      "quoteCount": 0,
+      "viewCount": 353,
+      "bookmarkCount": 0,
+      "case_id": "x-2079940712322199938"
+    },
+    "imageCategories": {
+      "workflows": [
+        {
+          "id": 105,
+          "title": "Reference Editing & Restoration",
+          "slug": "reference-editing-and-restoration"
+        }
+      ]
+    }
   }
 ]

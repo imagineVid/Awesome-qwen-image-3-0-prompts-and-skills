@@ -54,7 +54,7 @@ Qwen Image 3.0 is de derde generatie van het beeldgeneratie- en bewerkingsmodel 
 
 ## Geverifieerde officiële voorbeelden
 
-| Status van de collectie | 17 geverifieerde voorbeelden |
+| Status van de collectie | 18 geverifieerde voorbeelden |
 |---|---:|
 | Laatst gegenereerd | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **Officiële demonstratie:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **Gepubliceerd:** 2026-07-23
 - **Categorie:** Fotorealisme en materiaaldetail
+- **Referentiebeelden vereist:** Ja
+
+**[Gebruik deze prompt in ImagineVid](https://imaginevid.io/nl/ai-image-generator)**
+
+---
+
+### 18. Identiteitsbewerking van een rebelse rockster
+
+Een brononderbouwde case rond “Identiteitsbewerking van een rebelse rockster”, met herbruikbare instructies en controleerbare resultaatmedia.
+
+#### Prompt
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="Identiteitsbewerking van een rebelse rockster"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="Identiteitsbewerking van een rebelse rockster"></td>
+</tr></table>
+
+#### Bronbewijs
+
+- **Maker:** [Ash](https://x.com/asheem01)
+- **Officiële demonstratie:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **Gepubliceerd:** 2026-07-22
+- **Categorie:** Referentiebewerking en restauratie
 - **Referentiebeelden vereist:** Ja
 
 **[Gebruik deze prompt in ImagineVid](https://imaginevid.io/nl/ai-image-generator)**

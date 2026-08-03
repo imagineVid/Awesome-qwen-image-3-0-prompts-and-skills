@@ -54,7 +54,7 @@ Qwen Image 3.0 是 Qwen 团队推出的第三代图像生成与编辑模型。�
 
 ## 已核验的官方案例
 
-| 合集状态 | 17 个已核验案例 |
+| 合集状态 | 18 个已核验案例 |
 |---|---:|
 | 最近生成 | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **官方展示:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **发布时间:** 2026-07-23
 - **分类:** 写实摄影与材质细节
+- **需要参考图:** 是
+
+**[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**
+
+---
+
+### 18. 叛逆摇滚明星身份编辑
+
+以可复用指令和可核验结果媒体测试“叛逆摇滚明星身份编辑”的来源明确案例。
+
+#### 提示词
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="叛逆摇滚明星身份编辑"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="叛逆摇滚明星身份编辑"></td>
+</tr></table>
+
+#### 来源证据
+
+- **创作者:** [Ash](https://x.com/asheem01)
+- **官方展示:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **发布时间:** 2026-07-22
+- **分类:** 参考图编辑与修复
 - **需要参考图:** 是
 
 **[在 ImagineVid 中使用此提示词](https://imaginevid.io/zh/ai-image-generator)**

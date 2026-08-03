@@ -67,6 +67,10 @@
     "17": {
       "title": "复古 coquette 参考人像特写",
       "description": "聚焦身份保留、真实皮肤纹理、旧玫瑰色造型与近景编辑构图的参考图人像提示词。"
+    },
+    "18": {
+      "title": "叛逆摇滚明星身份编辑",
+      "description": "以可复用指令和可核验结果媒体测试“叛逆摇滚明星身份编辑”的来源明确案例。"
     }
   },
   "ja": {
@@ -137,6 +141,10 @@
     "17": {
       "title": "ヴィンテージ coquette 参照ポートレート",
       "description": "本人らしさ、自然な肌質、オールドローズ調のスタイリング、近接編集フレーミングに集中した参照画像プロンプト。"
+    },
+    "18": {
+      "title": "反抗的なロックスターへのアイデンティティ編集",
+      "description": "「反抗的なロックスターへのアイデンティティ編集」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。"
     }
   },
   "ko": {
@@ -207,6 +215,10 @@
     "17": {
       "title": "빈티지 코케트 참조 인물 클로즈업",
       "description": "정체성 보존, 사실적인 피부 질감, 올드 로즈 스타일링, 근접 편집 구도에 초점을 둔 참조 이미지 프롬프트."
+    },
+    "18": {
+      "title": "반항적인 록스타 아이덴티티 편집",
+      "description": "검증 가능한 결과 미디어와 재사용 가능한 지침으로 '반항적인 록스타 아이덴티티 편집'을 테스트하는 출처 기반 사례입니다."
     }
   },
   "es": {
@@ -277,6 +289,10 @@
     "17": {
       "title": "Retrato coquette vintage con referencia",
       "description": "Prompt de retrato con referencia centrado en preservar identidad, textura real de piel, estilo rosa antiguo y encuadre editorial cerrado."
+    },
+    "18": {
+      "title": "Edición de identidad de una estrella de rock rebelde",
+      "description": "Un caso respaldado por fuentes que explora «Edición de identidad de una estrella de rock rebelde», con instrucciones reutilizables y medios de resultado verificables."
     }
   },
   "de": {
@@ -347,6 +363,10 @@
     "17": {
       "title": "Vintage-Coquette-Referenzporträt",
       "description": "Referenzgeführter Beauty-Prompt für Identitätserhalt, realistische Hautstruktur, altrosa Styling und engen Editorial-Beschnitt."
+    },
+    "18": {
+      "title": "Identitätsbearbeitung einer rebellischen Rockmusikerin",
+      "description": "Ein quellenbelegter Fall zu „Identitätsbearbeitung einer rebellischen Rockmusikerin“ mit wiederverwendbaren Anweisungen und überprüfbaren Ergebnismedien."
     }
   },
   "fr": {
@@ -417,6 +437,10 @@
     "17": {
       "title": "Portrait coquette vintage avec reference",
       "description": "Prompt de portrait guide par reference, centre sur l identite, la texture de peau realiste, le style vieux rose et le cadrage editorial serre."
+    },
+    "18": {
+      "title": "Édition d’identité d’une rockeuse rebelle",
+      "description": "Un cas documenté par une source autour de « Édition d’identité d’une rockeuse rebelle », avec des instructions réutilisables et un résultat vérifiable."
     }
   },
   "it": {
@@ -487,6 +511,10 @@
     "17": {
       "title": "Ritratto coquette vintage con riferimento",
       "description": "Prompt ritratto guidato da riferimento per conservare identita, pelle realistica, stile rosa antico e inquadratura editoriale ravvicinata."
+    },
+    "18": {
+      "title": "Modifica dell’identità di una rockstar ribelle",
+      "description": "Un caso basato su fonti verificabili che esplora «Modifica dell’identità di una rockstar ribelle», con istruzioni riutilizzabili e media del risultato ispezionabili."
     }
   },
   "pt": {
@@ -557,6 +585,10 @@
     "17": {
       "title": "Retrato coquette vintage com referencia",
       "description": "Prompt de retrato guiado por referencia focado em identidade, textura real de pele, estilo rosa antigo e enquadramento editorial fechado."
+    },
+    "18": {
+      "title": "Edição de identidade de uma estrela de rock rebelde",
+      "description": "Um caso baseado em fontes que explora “Edição de identidade de uma estrela de rock rebelde”, com instruções reutilizáveis e mídia de resultado verificável."
     }
   },
   "nl": {
@@ -627,6 +659,10 @@
     "17": {
       "title": "Vintage coquette referentieportret close-up",
       "description": "Een referentiegestuurde beautyprompt rond identiteitsbehoud, realistische huidtextuur, oudroze styling en nauwe editoriale kadrering."
+    },
+    "18": {
+      "title": "Identiteitsbewerking van een rebelse rockster",
+      "description": "Een brononderbouwde case rond “Identiteitsbewerking van een rebelse rockster”, met herbruikbare instructies en controleerbare resultaatmedia."
     }
   },
   "pl": {
@@ -697,6 +733,10 @@
     "17": {
       "title": "Vintage portret coquette z referencja",
       "description": "Prompt portretowy prowadzony referencja, skupiony na zachowaniu tozsamosci, realistycznej skorze, stylu starego rozu i ciasnym kadrze editorialowym."
+    },
+    "18": {
+      "title": "Edycja tożsamości zbuntowanej gwiazdy rocka",
+      "description": "Udokumentowany przypadek dotyczący „Edycja tożsamości zbuntowanej gwiazdy rocka”, z instrukcjami do ponownego użycia i weryfikowalnym materiałem wynikowym."
     }
   },
   "ru": {
@@ -767,6 +807,10 @@
     "17": {
       "title": "Винтажный coquette-портрет по референсу",
       "description": "Промпт портрета по референсу с упором на сохранение идентичности, реалистичную кожу, старо-розовый стиль и крупный журнальный кадр."
+    },
+    "18": {
+      "title": "Редактирование образа бунтарской рок-звезды",
+      "description": "Кейс с подтверждённым источником о задаче «Редактирование образа бунтарской рок-звезды», с повторно используемыми инструкциями и проверяемым результатом."
     }
   },
   "tr": {
@@ -837,6 +881,10 @@
     "17": {
       "title": "Vintage coquette referans portresi",
       "description": "Kimlik koruma, gercekci cilt dokusu, eski gul tonu stil ve yakin editorial kadraja odaklanan referansli portre istemi."
+    },
+    "18": {
+      "title": "Asi bir rock yıldızına kimlik düzenlemesi",
+      "description": "“Asi bir rock yıldızına kimlik düzenlemesi” konusunu yeniden kullanılabilir talimatlar ve doğrulanabilir sonuç medyasıyla ele alan kaynaklı bir vaka."
     }
   },
   "ar": {
@@ -907,6 +955,10 @@
     "17": {
       "title": "بورتريه coquette عتيق بالاعتماد على مرجع",
       "description": "وصف بورتريه مرجعي يركز على حفظ الهوية وملمس الجلد الواقعي ولوحة وردية قديمة وتأطير تحريري قريب."
+    },
+    "18": {
+      "title": "تحرير هوية نجمة روك متمردة",
+      "description": "حالة موثقة بالمصدر حول «تحرير هوية نجمة روك متمردة»، مع تعليمات قابلة لإعادة الاستخدام ووسائط نتيجة قابلة للتحقق."
     }
   }
 }

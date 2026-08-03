@@ -54,7 +54,7 @@ Qwen Image 3.0 は Qwen チームによる第3世代の画像生成・編集モ�
 
 ## 検証済み公式ショーケース
 
-| 収録状況 | 17 件の検証済み事例 |
+| 収録状況 | 18 件の検証済み事例 |
 |---|---:|
 | 最終生成日 | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **公式ショーケース:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **公開日:** 2026-07-23
 - **カテゴリー:** 写実表現と素材ディテール
+- **参照画像が必要:** はい
+
+**[ImagineVid でこのプロンプトを使う](https://imaginevid.io/ja/ai-image-generator)**
+
+---
+
+### 18. 反抗的なロックスターへのアイデンティティ編集
+
+「反抗的なロックスターへのアイデンティティ編集」を検証可能な結果メディアと再利用できる指示で試す、出典付きのケースです。
+
+#### プロンプト
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="反抗的なロックスターへのアイデンティティ編集"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="反抗的なロックスターへのアイデンティティ編集"></td>
+</tr></table>
+
+#### 出典情報
+
+- **作成者:** [Ash](https://x.com/asheem01)
+- **公式ショーケース:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **公開日:** 2026-07-22
+- **カテゴリー:** 参照編集と修復
 - **参照画像が必要:** はい
 
 **[ImagineVid でこのプロンプトを使う](https://imaginevid.io/ja/ai-image-generator)**

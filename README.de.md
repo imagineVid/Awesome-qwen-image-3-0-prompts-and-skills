@@ -54,7 +54,7 @@ Qwen Image 3.0 ist die dritte Generation des Bildgenerierungs- und Bearbeitungsm
 
 ## Geprüfte offizielle Beispiele
 
-| Sammlungsstatus | 17 geprüfte Beispiele |
+| Sammlungsstatus | 18 geprüfte Beispiele |
 |---|---:|
 | Zuletzt erstellt | 2026-07-21 |
 
@@ -562,6 +562,33 @@ Create a premium extreme close-up studio beauty portrait using a dreamy vintage 
 - **Offizielles Beispiel:** [Qwen Image 3.0](https://x.com/atomtanstudio/status/2080197723429711958)
 - **Veröffentlicht:** 2026-07-23
 - **Kategorie:** Fotorealismus und Materialdetails
+- **Referenzbilder erforderlich:** Ja
+
+**[Diesen Prompt in ImagineVid verwenden](https://imaginevid.io/de/ai-image-generator)**
+
+---
+
+### 18. Identitätsbearbeitung einer rebellischen Rockmusikerin
+
+Ein quellenbelegter Fall zu „Identitätsbearbeitung einer rebellischen Rockmusikerin“ mit wiederverwendbaren Anweisungen und überprüfbaren Ergebnismedien.
+
+#### Prompt
+
+```text
+Candid photography. Use facial identity, facial geometry and make-up but not original hair from [uploaded image] to create a rebellious female rockstar with an hourglass figure. Her new hair is long, blonde and professionally styled with a side-parting. She wears a strapless black sequin pencil-dress and black leather high-heels with 3 tiers of straps upto her ankle. She sits on the edge of a messy, after-party hotel bed using a confident pose which exudes authority, leaning forward slightly, direct look of disdain at camera and one finger pressing on her lower lip. 8k photorealistic head-to-toe wide framing, natural light, sharp shadows, very detailed photo, vintage film grain and shallow depth of field. Ensure facial consistency and perfect female anatomy.
+```
+
+<table><tr>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vClvW4AA8M-H.jpg" width="100%" alt="Identitätsbearbeitung einer rebellischen Rockmusikerin"></td>
+<td width="50%"><img src="https://pbs.twimg.com/media/HN1vDMGWoAAHCnh.jpg" width="100%" alt="Identitätsbearbeitung einer rebellischen Rockmusikerin"></td>
+</tr></table>
+
+#### Quellennachweis
+
+- **Urheber:** [Ash](https://x.com/asheem01)
+- **Offizielles Beispiel:** [Qwen Image 3.0](https://x.com/asheem01/status/2079940712322199938)
+- **Veröffentlicht:** 2026-07-22
+- **Kategorie:** Referenzbearbeitung und Restaurierung
 - **Referenzbilder erforderlich:** Ja
 
 **[Diesen Prompt in ImagineVid verwenden](https://imaginevid.io/de/ai-image-generator)**
